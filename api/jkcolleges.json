@@ -1,2060 +1,2064 @@
 [
     {
-        "College ID": "1",
-        "College Name": "A.S. College",
-        "Mobile Phone": [
+        "college_id": "1",
+        "college_name": "A.S. College",
+        "mobile_number": [
             "9419064621"
         ],
-        "Landline": [
+        "landline": [
             "2311674",
             "2310227"
         ],
-        "EMail ID": [
+        "email_id": [
             "principal@amarsinghcollege.ac.in"
         ],
-        "District": "Srinagar",
-        "Website": "http://www.amarsinghcollege.ac.in"
+        "district": "Srinagar",
+        "website": "http://www.amarsinghcollege.ac.in"
     },
     {
-        "College ID": "2",
-        "College Name": "S.P. College",
-        "Mobile Phone": [
+        "college_id": "2",
+        "college_name": "S.P. College",
+        "mobile_number": [
             "9419010839"
         ],
-        "Landline": [
+        "landline": [
             "2476828",
             "2476804"
         ],
-        "EMail ID": [
+        "email_id": [
             "spcsgr1905@gmail.com"
         ],
-        "District": "Srinagar",
-        "Website": "http://www.spcollege.co.in"
+        "district": "Srinagar",
+        "website": "http://www.spcollege.co.in"
     },
     {
-        "College ID": "3",
-        "College Name": "IASE, Srinagar (College of Education)",
-        "Mobile Phone": [
+        "college_id": "3",
+        "college_name": "IASE, Srinagar (College of Education)",
+        "mobile_number": [
             "9419012022",
             "9419018037"
         ],
-        "Landline": [
+        "landline": [
             "2479807"
         ],
-        "EMail ID": [
+        "email_id": [
             "gcoe.sgr@gmail.com"
         ],
-        "District": "Srinagar",
-        "Website": "http://www.gcoekmr.org"
+        "district": "Srinagar",
+        "website": "http://www.gcoekmr.org"
     },
     {
-        "College ID": "4",
-        "College Name": "Govt. Women College M. A. Road Srinagar",
-        "Mobile Phone": [
+        "college_id": "4",
+        "college_name": "Govt. Women College M. A. Road Srinagar",
+        "mobile_number": [
             "9419012127"
         ],
-        "Landline": [
+        "landline": [
             "24782592479432"
         ],
-        "EMail ID": [
+        "email_id": [
             "gcwmaroad@yahoo.in"
         ],
-        "District": "Srinagar",
-        "Website": "http://www.gcwmaroad.org"
+        "district": "Srinagar",
+        "website": "http://www.gcwmaroad.org"
     },
     {
-        "College ID": "5",
-        "College Name": "Govt. Women College Nawakadal Srinagar",
-        "Mobile Phone": [
+        "college_id": "5",
+        "college_name": "Govt. Women College Nawakadal Srinagar",
+        "mobile_number": [
             "9419073979"
         ],
-        "Landline": [
+        "landline": [
             "2503456"
         ],
-        "EMail ID": [
+        "email_id": [
             "principal@gcwnk.ac.in"
         ],
-        "District": "Srinagar",
-        "Website": "http://www.gcwnk.ac.in"
+        "district": "Srinagar",
+        "website": "http://www.gcwnk.ac.in"
     },
     {
-        "College ID": "6",
-        "College Name": "Govt. Degree College Bemina",
-        "Mobile Phone": [
+        "college_id": "6",
+        "college_name": "Govt. Degree College Bemina",
+        "mobile_number": [
             "9419072024"
         ],
-        "Landline": [
+        "landline": [
             "2491715"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdcbemina@gmail.com"
         ],
-        "District": "Srinagar",
-        "Website": "http://www.gdcbemina.com"
+        "district": "Srinagar",
+        "website": "http://www.gdcbemina.com"
     },
     {
-        "College ID": "7",
-        "College Name": "Govt. Degree College (Boys) Anantnag",
-        "Mobile Phone": [
+        "college_id": "7",
+        "college_name": "Govt. Degree College (Boys) Anantnag",
+        "mobile_number": [
             "9419005803"
         ],
-        "Landline": [
+        "landline": [
             "0193-22223080193-2223509"
         ],
-        "EMail ID": [
+        "email_id": [
             "principal@gdcboysang.ac.in"
         ],
-        "District": "Anantnag",
-        "Website": "http://www.gdcboysang.ac.in"
+        "district": "Anantnag",
+        "website": "http://www.gdcboysang.ac.in"
     },
     {
-        "College ID": "8",
-        "College Name": "Govt. Women College Anantnag",
-        "Mobile Phone": [
+        "college_id": "8",
+        "college_name": "Govt. Women College Anantnag",
+        "mobile_number": [
             "9419048292"
         ],
-        "Landline": [
+        "landline": [
             "0193-2222385"
         ],
-        "EMail ID": [
+        "email_id": [
             "principalwcanantnag@gmail.com"
         ],
-        "District": "Anantnag",
-        "Website": "http://www.womencollegeanantnag.nic.in"
+        "district": "Anantnag",
+        "website": "http://www.womencollegeanantnag.nic.in"
     },
     {
-        "College ID": "9",
-        "College Name": "Govt. Degree College Bagi Dilawar Khan",
-        "Mobile Phone": [
+        "college_id": "9",
+        "college_name": "Govt. Degree College Bagi Dilawar Khan",
+        "mobile_number": [
             "9419416996",
             "9419069694"
         ],
-        "Landline": [
+        "landline": [
             "2470012"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdcbaghidilawarkhan@gmail.com"
         ],
-        "District": "Srinagar",
-        "Website": ""
+        "district": "Srinagar",
+        "website": ""
     },
     {
-        "College ID": "10",
-        "College Name": "Govt. Degree College Ganderbal",
-        "Mobile Phone": [
+        "college_id": "10",
+        "college_name": "Govt. Degree College Ganderbal",
+        "mobile_number": [
             "9419089615"
         ],
-        "Landline": [
+        "landline": [
             "2416854"
         ],
-        "EMail ID": [
+        "email_id": [
             "principalgdcgbl1@gmail.com"
         ],
-        "District": "Ganderbal",
-        "Website": "http://www.gdcganderbal.org"
+        "district": "Ganderbal",
+        "website": "http://www.gdcganderbal.org"
     },
     {
-        "College ID": "11",
-        "College Name": "Govt. Degree College Kangan",
-        "Mobile Phone": [
+        "college_id": "11",
+        "college_name": "Govt. Degree College Kangan",
+        "mobile_number": [
             "9419952057"
         ],
-        "Landline": [
+        "landline": [
             "0194-2418210"
         ],
-        "EMail ID": [
+        "email_id": [
             "principalgdckangan1@yahoo.com"
         ],
-        "District": "Ganderbal",
-        "Website": ""
+        "district": "Ganderbal",
+        "website": ""
     },
     {
-        "College ID": "12",
-        "College Name": "Govt. Degree College Budgam",
-        "Mobile Phone": [
+        "college_id": "12",
+        "college_name": "Govt. Degree College Budgam",
+        "mobile_number": [
             "9419034018",
             "9419006410"
         ],
-        "Landline": [
+        "landline": [
             "01951-256444"
         ],
-        "EMail ID": [
+        "email_id": [
             "principalsmdc@yahoo.com",
             "principalsamdc5@gmail.com"
         ],
-        "District": "Budgam",
-        "Website": ""
+        "district": "Budgam",
+        "website": ""
     },
     {
-        "College ID": "13",
-        "College Name": "Govt. Degree College Beerwah",
-        "Mobile Phone": [
+        "college_id": "13",
+        "college_name": "Govt. Degree College Beerwah",
+        "mobile_number": [
             "9419574741"
         ],
-        "Landline": [
+        "landline": [
             "01951-275277",
-            "/",
-            "6"
+            "01951-275276"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdcbeerwah@gmail.com"
         ],
-        "District": "Budgam",
-        "Website": ""
+        "district": "Budgam",
+        "website": ""
     },
     {
-        "College ID": "14",
-        "College Name": "Govt. Degree College Khansahib",
-        "Mobile Phone": [
+        "college_id": "14",
+        "college_name": "Govt. Degree College Khansahib",
+        "mobile_number": [
             "9419010955",
             "9797703841"
         ],
-        "Landline": [
+        "landline": [
             "01951-277294"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdckhansahib@gmail.com"
         ],
-        "District": "Budgam",
-        "Website": ""
+        "district": "Budgam",
+        "website": ""
     },
     {
-        "College ID": "15",
-        "College Name": "Govt. Degree College Charar-i-Sharief",
-        "Mobile Phone": [
+        "college_id": "15",
+        "college_name": "Govt. Degree College Charar-i-Sharief",
+        "mobile_number": [
             "7298782532"
         ],
-        "Landline": [
+        "landline": [
             "01951-25340"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdc.chrarisharief@gmail.com"
         ],
-        "District": "Budgam",
-        "Website": ""
+        "district": "Budgam",
+        "website": ""
     },
     {
-        "College ID": "16",
-        "College Name": "Govt. Degree College Magam",
-        "Mobile Phone": [
+        "college_id": "16",
+        "college_name": "Govt. Degree College Magam",
+        "mobile_number": [
             "9419056355",
             "9419034216"
         ],
-        "Landline": [
+        "landline": [
             "01951-272153"
         ],
-        "EMail ID": [
+        "email_id": [
             "principalgdcmag@gmail.com"
         ],
-        "District": "Budgam",
-        "Website": ""
+        "district": "Budgam",
+        "website": ""
     },
     {
-        "College ID": "17",
-        "College Name": "Govt. Degree College Bandipora",
-        "Mobile Phone": [
+        "college_id": "17",
+        "college_name": "Govt. Degree College Bandipora",
+        "mobile_number": [
             "9419404471"
         ],
-        "Landline": [
-            "01957-22603301957-225430"
+        "landline": [
+            "01957-226033",
+            "01957-225430"
         ],
-        "EMail ID": [
+        "email_id": [
             "degreecollegebpr@gmail.com"
         ],
-        "District": "Bandipora",
-        "Website": "http://www.gdcbandipora.net"
+        "district": "Bandipora",
+        "website": "http://www.gdcbandipora.net"
     },
     {
-        "College ID": "18",
-        "College Name": "Govt. Degree College Gurez",
-        "Mobile Phone": [
+        "college_id": "18",
+        "college_name": "Govt. Degree College Gurez",
+        "mobile_number": [
             "9469893101"
         ],
-        "Landline": [
+        "landline": [
             "01957-255287"
         ],
-        "EMail ID": [
+        "email_id": [
             "principalgdcgurez@yahoo.com"
         ],
-        "District": "Bandipora",
-        "Website": ""
+        "district": "Bandipora",
+        "website": ""
     },
     {
-        "College ID": "19",
-        "College Name": "Govt. Degree College Sumbal",
-        "Mobile Phone": [
+        "college_id": "19",
+        "college_name": "Govt. Degree College Sumbal",
+        "mobile_number": [
             "9419058989"
         ],
-        "Landline": [
+        "landline": [
             "01954-230208"
         ],
-        "EMail ID": [
+        "email_id": [
             "principalgdcsumbal@gmail.com"
         ],
-        "District": "Bandipora",
-        "Website": "http://www.gdcsumbal.com"
+        "district": "Bandipora",
+        "website": "http://www.gdcsumbal.com"
     },
     {
-        "College ID": "20",
-        "College Name": "Srinagar Women\u2019s College, Srinagar",
-        "Mobile Phone": [],
-        "Landline": [
+        "college_id": "20",
+        "college_name": "Srinagar Women's College, Srinagar",
+        "mobile_number": [],
+        "landline": [
             "0194-2311548"
         ],
-        "EMail ID": [
+        "email_id": [
             "srinagarwomenscollege@gmail.com"
         ],
-        "District": "Srinagar",
-        "Website": "http://srinagarwomenscollege.com/"
+        "district": "Srinagar",
+        "website": "http://srinagarwomenscollege.com/"
     },
     {
-        "College ID": "21",
-        "College Name": "Govt. Degree College Dooru",
-        "Mobile Phone": [
+        "college_id": "21",
+        "college_name": "Govt. Degree College Dooru",
+        "mobile_number": [
             "9419412632"
         ],
-        "Landline": [
+        "landline": [
             "01932-23015701932-230155"
         ],
-        "EMail ID": [
+        "email_id": [
             "principal.gdcdooru@gmail.com"
         ],
-        "District": "Anantnag",
-        "Website": ""
+        "district": "Anantnag",
+        "website": ""
     },
     {
-        "College ID": "22",
-        "College Name": "Govt. Degree College Bijbahera",
-        "Mobile Phone": [
+        "college_id": "22",
+        "college_name": "Govt. Degree College Bijbahera",
+        "mobile_number": [
             "9419079184"
         ],
-        "Landline": [
+        "landline": [
             "01932-23326301932-234813"
         ],
-        "EMail ID": [
+        "email_id": [
             "principalbijbehara@gmail.com"
         ],
-        "District": "Anantnag",
-        "Website": "http://www.gdcbijbehara.net"
+        "district": "Anantnag",
+        "website": "http://www.gdcbijbehara.net"
     },
     {
-        "College ID": "23",
-        "College Name": "Govt. Degree College Kokernag",
-        "Mobile Phone": [
+        "college_id": "23",
+        "college_name": "Govt. Degree College Kokernag",
+        "mobile_number": [
             "9419045907"
         ],
-        "Landline": [
+        "landline": [
             "01932-244167"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdckokernag@gmail.com"
         ],
-        "District": "Anantnag",
-        "Website": ""
+        "district": "Anantnag",
+        "website": ""
     },
     {
-        "College ID": "24",
-        "College Name": "Govt. Degree College Uttersoo",
-        "Mobile Phone": [
+        "college_id": "24",
+        "college_name": "Govt. Degree College Uttersoo",
+        "mobile_number": [
             "9419450527",
             "9596187360"
         ],
-        "Landline": [
+        "landline": [
             "01932-224084"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdcuttersoo@gmail.com",
-            "principaluttersoocollege[at]gmail[dot]com",
-            "admin[at]gdcut[dot]ac[dot]in"
+            "principaluttersoocollege@gmail.com",
+            "admin@gdcut.ac.in"
         ],
-        "District": "Anantnag",
-        "Website": ""
+        "district": "Anantnag",
+        "website": ""
     },
     {
-        "College ID": "25",
-        "College Name": "Govt. Degree College Vailoo-Larnoo",
-        "Mobile Phone": [
+        "college_id": "25",
+        "college_name": "Govt. Degree College Vailoo-Larnoo",
+        "mobile_number": [
             "9419474995"
         ],
-        "Landline": [
+        "landline": [
             "941903117229596399543"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdclarnoo@gmail.com"
         ],
-        "District": "Anantnag",
-        "Website": ""
+        "district": "Anantnag",
+        "website": ""
     },
     {
-        "College ID": "26",
-        "College Name": "Govt. Degree College Kulgam",
-        "Mobile Phone": [
+        "college_id": "26",
+        "college_name": "Govt. Degree College Kulgam",
+        "mobile_number": [
             "9419595057"
         ],
-        "Landline": [
+        "landline": [
             "01931-26017701931-260408"
         ],
-        "EMail ID": [
+        "email_id": [
             "kulgamprincipal@gmail.com"
         ],
-        "District": "Kulgam",
-        "Website": "http://www.gdckulgam.edu.in/"
+        "district": "Kulgam",
+        "website": "http://www.gdckulgam.edu.in/"
     },
     {
-        "College ID": "27",
-        "College Name": "Govt. Degree College Killam",
-        "Mobile Phone": [
+        "college_id": "27",
+        "college_name": "Govt. Degree College Killam",
+        "mobile_number": [
             "9419040661",
             "9858874018"
         ],
-        "Landline": [
+        "landline": [
             "01931-215628"
         ],
-        "EMail ID": [
+        "email_id": [
             "principalgdckilam@gmail.com"
         ],
-        "District": "Kulgam",
-        "Website": ""
+        "district": "Kulgam",
+        "website": ""
     },
     {
-        "College ID": "28",
-        "College Name": "Govt. Degree College D. H. Pora",
-        "Mobile Phone": [
+        "college_id": "28",
+        "college_name": "Govt. Degree College D. H. Pora",
+        "mobile_number": [
             "9622299555"
         ],
-        "Landline": [
+        "landline": [
             "01931-210478"
         ],
-        "EMail ID": [
+        "email_id": [
             "principalgdcdhpora@gmail.com"
         ],
-        "District": "Kulgam",
-        "Website": ""
+        "district": "Kulgam",
+        "website": ""
     },
     {
-        "College ID": "29",
-        "College Name": "Govt. Degree College (Boys) Pulwama",
-        "Mobile Phone": [
+        "college_id": "29",
+        "college_name": "Govt. Degree College (Boys) Pulwama",
+        "mobile_number": [
             "9419024884"
         ],
-        "Landline": [
-            "01933-24125001933-242391"
+        "landline": [
+            "01933-241250",
+            "01933-242391"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdcpulwama@gmail.com"
         ],
-        "District": "Pulwama",
-        "Website": "http://www.dcpulwama.edu.in"
+        "district": "Pulwama",
+        "website": "http://www.dcpulwama.edu.in"
     },
     {
-        "College ID": "30",
-        "College Name": "Govt. Women College Pulwama",
-        "Mobile Phone": [
+        "college_id": "30",
+        "college_name": "Govt. Women College Pulwama",
+        "mobile_number": [
             "9419024864"
         ],
-        "Landline": [
+        "landline": [
             "01933-242370"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdcwomenpulwama@gmail.com"
         ],
-        "District": "Pulwama",
-        "Website": ""
+        "district": "Pulwama",
+        "website": ""
     },
     {
-        "College ID": "31",
-        "College Name": "Govt. Degree College Tral",
-        "Mobile Phone": [
+        "college_id": "31",
+        "college_name": "Govt. Degree College Tral",
+        "mobile_number": [
             "9419534394"
         ],
-        "Landline": [
+        "landline": [
             "01933-251278,",
             "01933-251277"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdctral@rediffmail.com"
         ],
-        "District": "Pulwama",
-        "Website": "http://www.gdctral.ac.in"
+        "district": "Pulwama",
+        "website": "http://www.gdctral.ac.in"
     },
     {
-        "College ID": "32",
-        "College Name": "Govt. Degree College Pampore",
-        "Mobile Phone": [
+        "college_id": "32",
+        "college_name": "Govt. Degree College Pampore",
+        "mobile_number": [
             "9419022133"
         ],
-        "Landline": [
+        "landline": [
             "01933-222303"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdcpampore@gmail.com"
         ],
-        "District": "Pulwama",
-        "Website": ""
+        "district": "Pulwama",
+        "website": ""
     },
     {
-        "College ID": "33",
-        "College Name": "Govt. Degree College Shopian",
-        "Mobile Phone": [
+        "college_id": "33",
+        "college_name": "Govt. Degree College Shopian",
+        "mobile_number": [
             "9419047885"
         ],
-        "Landline": [
+        "landline": [
             "01933-260204"
         ],
-        "EMail ID": [
+        "email_id": [
             "spncollege@hotmail.com"
         ],
-        "District": "Shopian",
-        "Website": "http://www.gdcshopian.in"
+        "district": "Shopian",
+        "website": "http://www.gdcshopian.in"
     },
     {
-        "College ID": "34",
-        "College Name": "Govt. Women College Baramulla",
-        "Mobile Phone": [
+        "college_id": "34",
+        "college_name": "Govt. Women College Baramulla",
+        "mobile_number": [
             "9419033246",
             "9419458385"
         ],
-        "Landline": [
+        "landline": [
             "01952-234985"
         ],
-        "EMail ID": [
+        "email_id": [
             "wcbaramulla@gmail.com"
         ],
-        "District": "Baramulla",
-        "Website": "http://www.wcbaramulla.com"
+        "district": "Baramulla",
+        "website": "http://www.wcbaramulla.com"
     },
     {
-        "College ID": "35",
-        "College Name": "Govt. Degree College Baramulla",
-        "Mobile Phone": [
+        "college_id": "35",
+        "college_name": "Govt. Degree College Baramulla",
+        "mobile_number": [
             "9419032863"
         ],
-        "Landline": [
+        "landline": [
             "01952-234214"
         ],
-        "EMail ID": [
+        "email_id": [
             "principal@baramullacollege.net"
         ],
-        "District": "Baramulla",
-        "Website": "http://www.baramullacollege.net"
+        "district": "Baramulla",
+        "website": "http://www.baramullacollege.net"
     },
     {
-        "College ID": "36",
-        "College Name": "Govt. Degree College Sopore",
-        "Mobile Phone": [
+        "college_id": "36",
+        "college_name": "Govt. Degree College Sopore",
+        "mobile_number": [
             "9419039720"
         ],
-        "Landline": [
+        "landline": [
             "01954-222262"
         ],
-        "EMail ID": [
+        "email_id": [
             "soporecollege@gmail.com"
         ],
-        "District": "Baramulla",
-        "Website": "http://www.gdcsopore.ac.in"
+        "district": "Baramulla",
+        "website": "http://www.gdcsopore.ac.in"
     },
     {
-        "College ID": "37",
-        "College Name": "Govt. Women College Sopore",
-        "Mobile Phone": [
+        "college_id": "37",
+        "college_name": "Govt. Women College Sopore",
+        "mobile_number": [
             "9419052746"
         ],
-        "Landline": [
+        "landline": [
             "01954-225046"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdcw.sopore@gmail.com"
         ],
-        "District": "Baramulla",
-        "Website": ""
+        "district": "Baramulla",
+        "website": ""
     },
     {
-        "College ID": "38",
-        "College Name": "Govt. Degree College Pattan",
-        "Mobile Phone": [
+        "college_id": "38",
+        "college_name": "Govt. Degree College Pattan",
+        "mobile_number": [
             "9419412134",
             "9419501164"
         ],
-        "Landline": [
+        "landline": [
             "01954-2312449797226942"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdcpattan@yahoo.com"
         ],
-        "District": "Baramulla",
-        "Website": ""
+        "district": "Baramulla",
+        "website": ""
     },
     {
-        "College ID": "39",
-        "College Name": "Govt. Degree College Uri",
-        "Mobile Phone": [
+        "college_id": "39",
+        "college_name": "Govt. Degree College Uri",
+        "mobile_number": [
             "9419430394"
         ],
-        "Landline": [
+        "landline": [
             "01956-244111"
         ],
-        "EMail ID": [
+        "email_id": [
             "uricollege@gmail.com"
         ],
-        "District": "Baramulla",
-        "Website": ""
+        "district": "Baramulla",
+        "website": ""
     },
     {
-        "College ID": "40",
-        "College Name": "Govt. Degree College Tangmarg",
-        "Mobile Phone": [
+        "college_id": "40",
+        "college_name": "Govt. Degree College Tangmarg",
+        "mobile_number": [
             "9906644911",
             "9419028595"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "principaltmg@gmail.com"
         ],
-        "District": "Baramulla",
-        "Website": ""
+        "district": "Baramulla",
+        "website": ""
     },
     {
-        "College ID": "41",
-        "College Name": "Govt. Degree College Hadipora",
-        "Mobile Phone": [
+        "college_id": "41",
+        "college_name": "Govt. Degree College Hadipora",
+        "mobile_number": [
             "8803305918"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "dr.b.a.sodagar@yahoo.com"
         ],
-        "District": "Baramulla",
-        "Website": ""
+        "district": "Baramulla",
+        "website": ""
     },
     {
-        "College ID": "42",
-        "College Name": "Govt. Degree College Kupwara",
-        "Mobile Phone": [
+        "college_id": "42",
+        "college_name": "Govt. Degree College Kupwara",
+        "mobile_number": [
             "9419036917"
         ],
-        "Landline": [
-            "01955-25215501955-252125"
+        "landline": [
+            "01955-252155",
+            "01955-252125"
         ],
-        "EMail ID": [
+        "email_id": [
             "kcollege786@gmail.com"
         ],
-        "District": "Kupwara",
-        "Website": "http://www.gdckupwara.com"
+        "district": "Kupwara",
+        "website": "http://www.gdckupwara.com"
     },
     {
-        "College ID": "43",
-        "College Name": "Govt. Degree College Handwara",
-        "Mobile Phone": [
+        "college_id": "43",
+        "college_name": "Govt. Degree College Handwara",
+        "mobile_number": [
             "9419921420"
         ],
-        "Landline": [
-            "01955-26220301955-262888"
+        "landline": [
+            "01955-262203",
+            "01955-262888"
         ],
-        "EMail ID": [
+        "email_id": [
             "handwaracollege@yahoo.com"
         ],
-        "District": "Kupwara",
-        "Website": ""
+        "district": "Kupwara",
+        "website": ""
     },
     {
-        "College ID": "44",
-        "College Name": "Govt. Degree College Sogam",
-        "Mobile Phone": [
+        "college_id": "44",
+        "college_name": "Govt. Degree College Sogam",
+        "mobile_number": [
             "9419029971"
         ],
-        "Landline": [
+        "landline": [
             "01955-233211"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdcsogam@yahoo.com"
         ],
-        "District": "Kupwara",
-        "Website": ""
+        "district": "Kupwara",
+        "website": ""
     },
     {
-        "College ID": "45",
-        "College Name": "Govt. Degree College Tangdhar",
-        "Mobile Phone": [],
-        "Landline": [],
-        "EMail ID": [
+        "college_id": "45",
+        "college_name": "Govt. Degree College Tangdhar",
+        "mobile_number": [],
+        "landline": [],
+        "email_id": [
             "gdctangdhar@gmail.com"
         ],
-        "District": "Kupwara",
-        "Website": ""
+        "district": "Kupwara",
+        "website": ""
     },
     {
-        "College ID": "46",
-        "College Name": "Govt. Women College Kupwara",
-        "Mobile Phone": [
+        "college_id": "46",
+        "college_name": "Govt. Women College Kupwara",
+        "mobile_number": [
             "9419446101",
             "9419029588"
         ],
-        "Landline": [
+        "landline": [
             "01955-252104"
         ],
-        "EMail ID": [
+        "email_id": [
             "gwckupwara@gmail.com"
         ],
-        "District": "Kupwara",
-        "Website": ""
+        "district": "Kupwara",
+        "website": ""
     },
     {
-        "College ID": "47",
-        "College Name": "Govt. Degree College Leh",
-        "Mobile Phone": [
+        "college_id": "47",
+        "college_name": "Govt. Degree College Leh",
+        "mobile_number": [
             "9419218045"
         ],
-        "Landline": [
-            "01982-25240901982252010",
-            "(DC)"
+        "landline": [
+            "01982-252409",
+            "01982-252010"
         ],
-        "EMail ID": [
+        "email_id": [
             "principalejmc.leh.1@gmail.com"
         ],
-        "District": "Leh",
-        "Website": ""
+        "district": "Leh",
+        "website": ""
     },
     {
-        "College ID": "48",
-        "College Name": "Govt. Degree College Nobra",
-        "Mobile Phone": [
+        "college_id": "48",
+        "college_name": "Govt. Degree College Nobra",
+        "mobile_number": [
             "9419218183"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "nobracollege@gmail.com"
         ],
-        "District": "Leh",
-        "Website": ""
+        "district": "Leh",
+        "website": ""
     },
     {
-        "College ID": "49",
-        "College Name": "Govt. Degree College Kargil",
-        "Mobile Phone": [
+        "college_id": "49",
+        "college_name": "Govt. Degree College Kargil",
+        "mobile_number": [
             "9419176427",
             "9419657041"
         ],
-        "Landline": [
-            "01985-23337401985-232392"
+        "landline": [
+            "01985-233374",
+            "01985-232392"
         ],
-        "EMail ID": [
+        "email_id": [
             "principal_gdck@rediffmail.com"
         ],
-        "District": "Kargil",
-        "Website": ""
+        "district": "Kargil",
+        "website": ""
     },
     {
-        "College ID": "50",
-        "College Name": "Govt. Degree College Zanaskar",
-        "Mobile Phone": [
+        "college_id": "50",
+        "college_name": "Govt. Degree College Zanaskar",
+        "mobile_number": [
             "9419174266"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "nasirshabanikgl@gmail.com"
         ],
-        "District": "Kargil",
-        "Website": ""
+        "district": "Kargil",
+        "website": ""
     },
     {
-        "College ID": "51",
-        "College Name": "Govt. Degree College Chadoora",
-        "Mobile Phone": [
+        "college_id": "51",
+        "college_name": "Govt. Degree College Chadoora",
+        "mobile_number": [
             "9419152330"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdcchadoora@gmail.com"
         ],
-        "District": "Budgam",
-        "Website": ""
+        "district": "Budgam",
+        "website": ""
     },
     {
-        "College ID": "52",
-        "College Name": "Govt. Degree College Soibugh",
-        "Mobile Phone": [
+        "college_id": "52",
+        "college_name": "Govt. Degree College Soibugh",
+        "mobile_number": [
             "8713951001"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "principalgdcsoibugh@gmail.com"
         ],
-        "District": "Budgam",
-        "Website": ""
+        "district": "Budgam",
+        "website": ""
     },
     {
-        "College ID": "53",
-        "College Name": "Govt. Degree College Hajin",
-        "Mobile Phone": [
+        "college_id": "53",
+        "college_name": "Govt. Degree College Hajin",
+        "mobile_number": [
             "9906570215"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "degreecollegehajin@gmail.com"
         ],
-        "District": "Bandipora",
-        "Website": ""
+        "district": "Bandipora",
+        "website": ""
     },
     {
-        "College ID": "54",
-        "College Name": "Govt. Degree College Tulail",
-        "Mobile Phone": [
+        "college_id": "54",
+        "college_name": "Govt. Degree College Tulail",
+        "mobile_number": [
             "9419010798"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdctulail123@gmail.com"
         ],
-        "District": "Bandipora",
-        "Website": ""
+        "district": "Bandipora",
+        "website": ""
     },
     {
-        "College ID": "55",
-        "College Name": "Govt. Degree College Ajas",
-        "Mobile Phone": [
+        "college_id": "55",
+        "college_name": "Govt. Degree College Ajas",
+        "mobile_number": [
             "8082364610"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "principalgdcajas@gmail.com"
         ],
-        "District": "Bandipora",
-        "Website": ""
+        "district": "Bandipora",
+        "website": ""
     },
     {
-        "College ID": "56",
-        "College Name": "Govt. Degree College Thindim Kreeri",
-        "Mobile Phone": [
+        "college_id": "56",
+        "college_name": "Govt. Degree College Thindim Kreeri",
+        "mobile_number": [
             "9797121275"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdcthindimkreeri@gmail.com"
         ],
-        "District": "Baramulla",
-        "Website": ""
+        "district": "Baramulla",
+        "website": ""
     },
     {
-        "College ID": "57",
-        "College Name": "Govt. Degree College Boniyar",
-        "Mobile Phone": [
+        "college_id": "57",
+        "college_name": "Govt. Degree College Boniyar",
+        "mobile_number": [
             "9419033067"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "boniyarcollege@gmail.com"
         ],
-        "District": "Baramulla",
-        "Website": ""
+        "district": "Baramulla",
+        "website": ""
     },
     {
-        "College ID": "58",
-        "College Name": "Govt. Degree College Danghiwacha",
-        "Mobile Phone": [
+        "college_id": "58",
+        "college_name": "Govt. Degree College Danghiwacha",
+        "mobile_number": [
             "9419067109"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdcdangiwacha786@gmail.com"
         ],
-        "District": "Baramulla",
-        "Website": ""
+        "district": "Baramulla",
+        "website": ""
     },
     {
-        "College ID": "59",
-        "College Name": "Govt. Degree College Bomai",
-        "Mobile Phone": [
+        "college_id": "59",
+        "college_name": "Govt. Degree College Bomai",
+        "mobile_number": [
             "9419538197"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "principalgdcbomai@gmail.com"
         ],
-        "District": "Baramulla",
-        "Website": ""
+        "district": "Baramulla",
+        "website": ""
     },
     {
-        "College ID": "60",
-        "College Name": "Govt. Degree College Vilgam",
-        "Mobile Phone": [
+        "college_id": "60",
+        "college_name": "Govt. Degree College Vilgam",
+        "mobile_number": [
             "9796577498"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdcvilgam1@gmail.com"
         ],
-        "District": "Kupwara",
-        "Website": ""
+        "district": "Kupwara",
+        "website": ""
     },
     {
-        "College ID": "61",
-        "College Name": "Govt. Degree College Kralpora",
-        "Mobile Phone": [
+        "college_id": "61",
+        "college_name": "Govt. Degree College Kralpora",
+        "mobile_number": [
             "9797206452"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "kralporagdc@gmail.com"
         ],
-        "District": "Kupwara",
-        "Website": ""
+        "district": "Kupwara",
+        "website": ""
     },
     {
-        "College ID": "62",
-        "College Name": "Govt. Degree College Langate",
-        "Mobile Phone": [
+        "college_id": "62",
+        "college_name": "Govt. Degree College Langate",
+        "mobile_number": [
             "7006896183"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdclangate@gmail.com"
         ],
-        "District": "Handwara",
-        "Website": ""
+        "district": "Handwara",
+        "website": ""
     },
     {
-        "College ID": "63",
-        "College Name": "Govt. Degree College Chatisinghpora Ang.",
-        "Mobile Phone": [
+        "college_id": "63",
+        "college_name": "Govt. Degree College Chatisinghpora Ang.",
+        "mobile_number": [
             "7006264857"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdcchatti@gmail.com"
         ],
-        "District": "Anantnag",
-        "Website": ""
+        "district": "Anantnag",
+        "website": ""
     },
     {
-        "College ID": "64",
-        "College Name": "Govt. Degree College Verinag",
-        "Mobile Phone": [
+        "college_id": "64",
+        "college_name": "Govt. Degree College Verinag",
+        "mobile_number": [
             "9419451850"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdcverinag@gmail.com"
         ],
-        "District": "Anantnag",
-        "Website": ""
+        "district": "Anantnag",
+        "website": ""
     },
     {
-        "College ID": "65",
-        "College Name": "Govt. Degree College Mattan",
-        "Mobile Phone": [
+        "college_id": "65",
+        "college_name": "Govt. Degree College Mattan",
+        "mobile_number": [
             "7889580413"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "principalgdcmattan@gmail.com"
         ],
-        "District": "Anantnag",
-        "Website": ""
+        "district": "Anantnag",
+        "website": ""
     },
     {
-        "College ID": "66",
-        "College Name": "Govt. Degree College Frisal Homeshalibugh",
-        "Mobile Phone": [
+        "college_id": "66",
+        "college_name": "Govt. Degree College Frisal Homeshalibugh",
+        "mobile_number": [
             "9419588701"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdcfrisal@gmail.com"
         ],
-        "District": "Kulgam",
-        "Website": ""
+        "district": "Kulgam",
+        "website": ""
     },
     {
-        "College ID": "67",
-        "College Name": "Govt. Degree College Qazigund",
-        "Mobile Phone": [
+        "college_id": "67",
+        "college_name": "Govt. Degree College Qazigund",
+        "mobile_number": [
             "9906570783"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdcqazigund@gmail.com"
         ],
-        "District": "Anantnag",
-        "Website": ""
+        "district": "Anantnag",
+        "website": ""
     },
     {
-        "College ID": "68",
-        "College Name": "Govt. Degree College Rajpora",
-        "Mobile Phone": [
+        "college_id": "68",
+        "college_name": "Govt. Degree College Rajpora",
+        "mobile_number": [
             "9419408124"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdcrajpora@gmail.com"
         ],
-        "District": "Pulwama",
-        "Website": ""
+        "district": "Pulwama",
+        "website": ""
     },
     {
-        "College ID": "69",
-        "College Name": "Govt. Degree College Awantipora",
-        "Mobile Phone": [
+        "college_id": "69",
+        "college_name": "Govt. Degree College Awantipora",
+        "mobile_number": [
             "9906538916"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdcawantipora@gmail.com"
         ],
-        "District": "Pulwama",
-        "Website": ""
+        "district": "Pulwama",
+        "website": ""
     },
     {
-        "College ID": "70",
-        "College Name": "Govt. Degree College Zainapora",
-        "Mobile Phone": [
+        "college_id": "70",
+        "college_name": "Govt. Degree College Zainapora",
+        "mobile_number": [
             "9906641904"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdczainapora@gmail.com"
         ],
-        "District": "Shopian",
-        "Website": ""
+        "district": "Shopian",
+        "website": ""
     },
     {
-        "College ID": "71",
-        "College Name": "Govt. Degree College Hyderpora",
-        "Mobile Phone": [
+        "college_id": "71",
+        "college_name": "Govt. Degree College Hyderpora",
+        "mobile_number": [
             "8803073432"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdchyderpora@mail.com"
         ],
-        "District": "Srinagar",
-        "Website": ""
+        "district": "Srinagar",
+        "website": ""
     },
     {
-        "College ID": "72",
-        "College Name": "Govt. Degree College Allochibagh",
-        "Mobile Phone": [
+        "college_id": "72",
+        "college_name": "Govt. Degree College Allochibagh",
+        "mobile_number": [
             "9469086550"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "allochibaghgdc@gmail.com"
         ],
-        "District": "Srinagar",
-        "Website": ""
+        "district": "Srinagar",
+        "website": ""
     },
     {
-        "College ID": "73",
-        "College Name": "Govt. Degree College Eidgah",
-        "Mobile Phone": [
+        "college_id": "73",
+        "college_name": "Govt. Degree College Eidgah",
+        "mobile_number": [
             "9858506064"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdceidgah@gmail.com"
         ],
-        "District": "Srinagar",
-        "Website": ""
+        "district": "Srinagar",
+        "website": ""
     },
     {
-        "College ID": "74",
-        "College Name": "Govt. Gandhi Memorial Science College",
-        "Mobile Phone": [
+        "college_id": "74",
+        "college_name": "Govt. Gandhi Memorial Science College",
+        "mobile_number": [
             "9419104522"
         ],
-        "Landline": [
+        "landline": [
             "0191-2578189"
         ],
-        "EMail ID": [
+        "email_id": [
             "principalggm@gmail.com"
         ],
-        "District": "Jammu",
-        "Website": "http://www.ggmsciencecollege.in"
+        "district": "Jammu",
+        "website": "http://www.ggmsciencecollege.in"
     },
     {
-        "College ID": "75",
-        "College Name": "Govt. Women College Parade Jammu",
-        "Mobile Phone": [
+        "college_id": "75",
+        "college_name": "Govt. Women College Parade Jammu",
+        "mobile_number": [
             "9419103074"
         ],
-        "Landline": [
+        "landline": [
             "0191-2544305"
         ],
-        "EMail ID": [
+        "email_id": [
             "principalgcwparade@gmail.com"
         ],
-        "District": "Jammu",
-        "Website": "http://www.gcwparade.in"
+        "district": "Jammu",
+        "website": "http://www.gcwparade.in"
     },
     {
-        "College ID": "76",
-        "College Name": "Govt. Maulana Azad Memorial College",
-        "Mobile Phone": [
+        "college_id": "76",
+        "college_name": "Govt. Maulana Azad Memorial College",
+        "mobile_number": [
             "9419139015"
         ],
-        "Landline": [
+        "landline": [
             "0191-2453497"
         ],
-        "EMail ID": [
+        "email_id": [
             "mamcollege1954@rediffmail.com"
         ],
-        "District": "Jammu",
-        "Website": "http://www.mamcollegejammu.org"
+        "district": "Jammu",
+        "website": "http://www.mamcollegejammu.org"
     },
     {
-        "College ID": "77",
-        "College Name": "Sri Pratap Memorial Rajput College of Commerce",
-        "Mobile Phone": [
+        "college_id": "77",
+        "college_name": "Sri Pratap Memorial Rajput College of Commerce",
+        "mobile_number": [
             "9419119869"
         ],
-        "Landline": [
+        "landline": [
             "0191-2580965"
         ],
-        "EMail ID": [
+        "email_id": [
             "principal.spmrcollege@gmail.com"
         ],
-        "District": "Jammu",
-        "Website": "http://www.spmrcollege.org"
+        "district": "Jammu",
+        "website": "http://www.spmrcollege.org"
     },
     {
-        "College ID": "78",
-        "College Name": "Govt. Women College Gandhi Nagar",
-        "Mobile Phone": [
+        "college_id": "78",
+        "college_name": "Govt. Women College Gandhi Nagar",
+        "mobile_number": [
             "9419102359"
         ],
-        "Landline": [
+        "landline": [
             "0191-2435158"
         ],
-        "EMail ID": [
+        "email_id": [
             "principal@gcwgandhinagar.com"
         ],
-        "District": "Jammu",
-        "Website": "http://www.gcwgandhinagar.com"
+        "district": "Jammu",
+        "website": "http://www.gcwgandhinagar.com"
     },
     {
-        "College ID": "79",
-        "College Name": "Govt. Degree College R.S.Pura",
-        "Mobile Phone": [
+        "college_id": "79",
+        "college_name": "Govt. Degree College R.S.Pura",
+        "mobile_number": [
             "9419211446"
         ],
-        "Landline": [
+        "landline": [
             "01923-252958"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdcrspura@gmail.com"
         ],
-        "District": "Jammu",
-        "Website": "http://www.gdcrspurajammu.com"
+        "district": "Jammu",
+        "website": "http://www.gdcrspurajammu.com"
     },
     {
-        "College ID": "80",
-        "College Name": "Govt. Degree College Akhnoor",
-        "Mobile Phone": [
+        "college_id": "80",
+        "college_name": "Govt. Degree College Akhnoor",
+        "mobile_number": [
             "9419203086"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "principalgdcakhnoor@gmail.com"
         ],
-        "District": "Jammu",
-        "Website": "http://www.gdcakhnoor.com"
+        "district": "Jammu",
+        "website": "http://www.gdcakhnoor.com"
     },
     {
-        "College ID": "81",
-        "College Name": "Govt. College of Education Jammu",
-        "Mobile Phone": [
+        "college_id": "81",
+        "college_name": "Govt. College of Education Jammu",
+        "mobile_number": [
             "9419104272"
         ],
-        "Landline": [
+        "landline": [
             "0191-2577401"
         ],
-        "EMail ID": [
+        "email_id": [
             "Gcoe.jammu@gmail.com"
         ],
-        "District": "Jammu",
-        "Website": ""
+        "district": "Jammu",
+        "website": ""
     },
     {
-        "College ID": "82",
-        "College Name": "Govt. Degree College Paloura",
-        "Mobile Phone": [
+        "college_id": "82",
+        "college_name": "Govt. Degree College Paloura",
+        "mobile_number": [
             "9419184174"
         ],
-        "Landline": [
+        "landline": [
             "0191-2565182"
         ],
-        "EMail ID": [
+        "email_id": [
             "principalgdc_paloura@yahoo.co.in"
         ],
-        "District": "Jammu",
-        "Website": "http://www.gdcpaloura.com"
+        "district": "Jammu",
+        "website": "http://www.gdcpaloura.com"
     },
     {
-        "College ID": "83",
-        "College Name": "Govt. Degree College Bishnah",
-        "Mobile Phone": [
+        "college_id": "83",
+        "college_name": "Govt. Degree College Bishnah",
+        "mobile_number": [
             "9419202845"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdcbishnah@gmail.com"
         ],
-        "District": "Jammu",
-        "Website": ""
+        "district": "Jammu",
+        "website": ""
     },
     {
-        "College ID": "84",
-        "College Name": "Govt. Degree College Khour",
-        "Mobile Phone": [
+        "college_id": "84",
+        "college_name": "Govt. Degree College Khour",
+        "mobile_number": [
             "9419108122"
         ],
-        "Landline": [
+        "landline": [
             "01924-234964"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdckhourj@gmail.com"
         ],
-        "District": "Jammu",
-        "Website": ""
+        "district": "Jammu",
+        "website": ""
     },
     {
-        "College ID": "85",
-        "College Name": "Govt. Degree College Jiandrah",
-        "Mobile Phone": [
+        "college_id": "85",
+        "college_name": "Govt. Degree College Jiandrah",
+        "mobile_number": [
             "9419981234"
         ],
-        "Landline": [
+        "landline": [
             "0191-2661419"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdcjindrah@gmail.com"
         ],
-        "District": "Jammu",
-        "Website": "http://www.gdcjindrah.co.in/"
+        "district": "Jammu",
+        "website": "http://www.gdcjindrah.co.in/"
     },
     {
-        "College ID": "86",
-        "College Name": "Govt. Degree College Samba",
-        "Mobile Phone": [
+        "college_id": "86",
+        "college_name": "Govt. Degree College Samba",
+        "mobile_number": [
             "9419172092"
         ],
-        "Landline": [
+        "landline": [
             "19232-241044"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdcsamba90@gmail.com"
         ],
-        "District": "Samba",
-        "Website": ""
+        "district": "Samba",
+        "website": ""
     },
     {
-        "College ID": "87",
-        "College Name": "Govt. Degree College Kathua",
-        "Mobile Phone": [
+        "college_id": "87",
+        "college_name": "Govt. Degree College Kathua",
+        "mobile_number": [
             "9419152050"
         ],
-        "Landline": [
+        "landline": [
             "01922-234315"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdckathua1961@gmail.com"
         ],
-        "District": "Kathua",
-        "Website": "http://www.gdckathua.com"
+        "district": "Kathua",
+        "website": "http://www.gdckathua.com"
     },
     {
-        "College ID": "88",
-        "College Name": "Govt. Women College Kathua",
-        "Mobile Phone": [
+        "college_id": "88",
+        "college_name": "Govt. Women College Kathua",
+        "mobile_number": [
             "9419163028"
         ],
-        "Landline": [
+        "landline": [
             "01922-232647"
         ],
-        "EMail ID": [
+        "email_id": [
             "womencollegekathua@gmail.com"
         ],
-        "District": "Kathua",
-        "Website": "http://womencollegekathua.com/"
+        "district": "Kathua",
+        "website": "http://womencollegekathua.com/"
     },
     {
-        "College ID": "89",
-        "College Name": "Govt. Degree College Hiranagar",
-        "Mobile Phone": [
+        "college_id": "89",
+        "college_name": "Govt. Degree College Hiranagar",
+        "mobile_number": [
             "9419217137"
         ],
-        "Landline": [
+        "landline": [
             "01922-274161"
         ],
-        "EMail ID": [
+        "email_id": [
             "hiranagargdc@gmail.com"
         ],
-        "District": "Kathua",
-        "Website": "http://www.gldmdchiranagar.in"
+        "district": "Kathua",
+        "website": "http://www.gldmdchiranagar.in"
     },
     {
-        "College ID": "90",
-        "College Name": "Govt. Degree College Basohli",
-        "Mobile Phone": [
+        "college_id": "90",
+        "college_name": "Govt. Degree College Basohli",
+        "mobile_number": [
             "9419151477"
         ],
-        "Landline": [
+        "landline": [
             "01921-251952"
         ],
-        "EMail ID": [
+        "email_id": [
             "principal.gdcbasohli@gmail.com"
         ],
-        "District": "Kathua",
-        "Website": ""
+        "district": "Kathua",
+        "website": ""
     },
     {
-        "College ID": "91",
-        "College Name": "Govt. Degree College Billawar",
-        "Mobile Phone": [
+        "college_id": "91",
+        "college_name": "Govt. Degree College Billawar",
+        "mobile_number": [
             "9419207800"
         ],
-        "Landline": [
+        "landline": [
             "01921-222061"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdcbillawar2005@gmail.com"
         ],
-        "District": "Kathua",
-        "Website": "http://www.gdcbillawar.com"
+        "district": "Kathua",
+        "website": "http://www.gdcbillawar.com"
     },
     {
-        "College ID": "92",
-        "College Name": "Govt. Degree College Bani",
-        "Mobile Phone": [
+        "college_id": "92",
+        "college_name": "Govt. Degree College Bani",
+        "mobile_number": [
             "9419119435"
         ],
-        "Landline": [
+        "landline": [
             "01921-268025"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdcbani08@gmail.com"
         ],
-        "District": "Kathua",
-        "Website": ""
+        "district": "Kathua",
+        "website": ""
     },
     {
-        "College ID": "93",
-        "College Name": "Govt. Degree College Mahanpur",
-        "Mobile Phone": [
+        "college_id": "93",
+        "college_name": "Govt. Degree College Mahanpur",
+        "mobile_number": [
             "9419268301"
         ],
-        "Landline": [
+        "landline": [
             "9419150950",
             "(P)"
         ],
-        "EMail ID": [
+        "email_id": [
             "principalgdcmahanpur@gmail.com"
         ],
-        "District": "Kathua",
-        "Website": ""
+        "district": "Kathua",
+        "website": ""
     },
     {
-        "College ID": "94",
-        "College Name": "Govt. Degree College Poonch",
-        "Mobile Phone": [
+        "college_id": "94",
+        "college_name": "Govt. Degree College Poonch",
+        "mobile_number": [
             "9419620697"
         ],
-        "Landline": [
+        "landline": [
             "01965-220231"
         ],
-        "EMail ID": [
+        "email_id": [
             "degreecollegepoonch@gmail.com"
         ],
-        "District": "Poonch",
-        "Website": "http://www.gdcpoonch.co.in"
+        "district": "Poonch",
+        "website": "http://www.gdcpoonch.co.in"
     },
     {
-        "College ID": "95",
-        "College Name": "Govt. Degree College Mendhar",
-        "Mobile Phone": [
+        "college_id": "95",
+        "college_name": "Govt. Degree College Mendhar",
+        "mobile_number": [
             "9419171754"
         ],
-        "Landline": [
+        "landline": [
             "01965-226793"
         ],
-        "EMail ID": [
+        "email_id": [
             "principalgdcmendhar@gmail,com"
         ],
-        "District": "Poonch",
-        "Website": "http://www.gdcmendhar.com"
+        "district": "Poonch",
+        "website": "http://www.gdcmendhar.com"
     },
     {
-        "College ID": "96",
-        "College Name": "Govt. Degree College Surankote",
-        "Mobile Phone": [
+        "college_id": "96",
+        "college_name": "Govt. Degree College Surankote",
+        "mobile_number": [
             "9419268431"
         ],
-        "Landline": [
+        "landline": [
             "01965-231231"
         ],
-        "EMail ID": [
+        "email_id": [
             "principalgdcskt@gmail.com"
         ],
-        "District": "Poonch",
-        "Website": ""
+        "district": "Poonch",
+        "website": ""
     },
     {
-        "College ID": "97",
-        "College Name": "Govt. Degree College Rajouri",
-        "Mobile Phone": [
+        "college_id": "97",
+        "college_name": "Govt. Degree College Rajouri",
+        "mobile_number": [
             "9419171895"
         ],
-        "Landline": [
+        "landline": [
             "01962-262510"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdcrajouri@gmail.com"
         ],
-        "District": "Rajouri",
-        "Website": "https://www.gpgcollegerajouri.ac.in"
+        "district": "Rajouri",
+        "website": "https://www.gpgcollegerajouri.ac.in"
     },
     {
-        "College ID": "98",
-        "College Name": "Govt. Degree College Thanamandi",
-        "Mobile Phone": [
+        "college_id": "98",
+        "college_name": "Govt. Degree College Thanamandi",
+        "mobile_number": [
             "9419172576"
         ],
-        "Landline": [
+        "landline": [
             "01962-251500"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdcthannamandi@yahoo.com"
         ],
-        "District": "Rajouri",
-        "Website": "https://www.gdcthannamandi.com"
+        "district": "Rajouri",
+        "website": "https://www.gdcthannamandi.com"
     },
     {
-        "College ID": "99",
-        "College Name": "Govt. Degree College Budhal",
-        "Mobile Phone": [
+        "college_id": "99",
+        "college_name": "Govt. Degree College Budhal",
+        "mobile_number": [
             "9419250508"
         ],
-        "Landline": [
+        "landline": [
             "01964-2578196"
         ],
-        "EMail ID": [
+        "email_id": [
             "dcbbudhal@gmail.com"
         ],
-        "District": "Rajouri",
-        "Website": ""
+        "district": "Rajouri",
+        "website": ""
     },
     {
-        "College ID": "100",
-        "College Name": "Govt. Degree College Nowshera",
-        "Mobile Phone": [
+        "college_id": "100",
+        "college_name": "Govt. Degree College Nowshera",
+        "mobile_number": [
             "1960230323"
         ],
-        "Landline": [
+        "landline": [
             "01960-230323"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdcnowshera@gmail.com"
         ],
-        "District": "Rajouri",
-        "Website": "http://www.gdcnowshera.com"
+        "district": "Rajouri",
+        "website": "http://www.gdcnowshera.com"
     },
     {
-        "College ID": "101",
-        "College Name": "Govt. Degree College Kalakote",
-        "Mobile Phone": [
+        "college_id": "101",
+        "college_name": "Govt. Degree College Kalakote",
+        "mobile_number": [
             "9419138385"
         ],
-        "Landline": [
+        "landline": [
             "01964-275002"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdckalakote11@gmail.com"
         ],
-        "District": "Rajouri",
-        "Website": ""
+        "district": "Rajouri",
+        "website": ""
     },
     {
-        "College ID": "102",
-        "College Name": "Govt. Degree College Sunderbani",
-        "Mobile Phone": [
+        "college_id": "102",
+        "college_name": "Govt. Degree College Sunderbani",
+        "mobile_number": [
             "9419134841"
         ],
-        "Landline": [
+        "landline": [
             "01960-233099"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdcsbn6@gmail.com"
         ],
-        "District": "Rajouri",
-        "Website": ""
+        "district": "Rajouri",
+        "website": ""
     },
     {
-        "College ID": "103",
-        "College Name": "Govt. Degree College Udhampur",
-        "Mobile Phone": [
+        "college_id": "103",
+        "college_name": "Govt. Degree College Udhampur",
+        "mobile_number": [
             "9419160428"
         ],
-        "Landline": [
+        "landline": [
             "01992-270239"
         ],
-        "EMail ID": [
+        "email_id": [
             "principal@gdcudhampur.in"
         ],
-        "District": "Udhampur",
-        "Website": "http://www.gdcudhampur.in"
+        "district": "Udhampur",
+        "website": "http://www.gdcudhampur.in"
     },
     {
-        "College ID": "104",
-        "College Name": "Govt. Women College Udhampur",
-        "Mobile Phone": [
+        "college_id": "104",
+        "college_name": "Govt. Women College Udhampur",
+        "mobile_number": [
             "9419175876"
         ],
-        "Landline": [
+        "landline": [
             "01992-270681"
         ],
-        "EMail ID": [
+        "email_id": [
             "gcwudhampur@gmail.com"
         ],
-        "District": "Udhampur",
-        "Website": ""
+        "district": "Udhampur",
+        "website": ""
     },
     {
-        "College ID": "105",
-        "College Name": "Govt. Degree College Ramnagar",
-        "Mobile Phone": [
+        "college_id": "105",
+        "college_name": "Govt. Degree College Ramnagar",
+        "mobile_number": [
             "9419175876"
         ],
-        "Landline": [
+        "landline": [
             "01990-227031"
         ],
-        "EMail ID": [
+        "email_id": [
             "principalgdcramnagar@yahoo.com"
         ],
-        "District": "Udhampur",
-        "Website": "http://www.gdcramnagar.in"
+        "district": "Udhampur",
+        "website": "http://www.gdcramnagar.in"
     },
     {
-        "College ID": "106",
-        "College Name": "Govt. General Zorawar Singh Memorial Degree College Reasi",
-        "Mobile Phone": [
+        "college_id": "106",
+        "college_name": "Govt. General Zorawar Singh Memorial Degree College Reasi",
+        "mobile_number": [
             "9419113231"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "principalgdcreasi20@gmail.com"
         ],
-        "District": "Reasi",
-        "Website": "http://www.gdcreasi.co.in"
+        "district": "Reasi",
+        "website": "http://www.gdcreasi.co.in"
     },
     {
-        "College ID": "107",
-        "College Name": "Govt. Degree College Dharmari",
-        "Mobile Phone": [
+        "college_id": "107",
+        "college_name": "Govt. Degree College Dharmari",
+        "mobile_number": [
             "9419999805"
         ],
-        "Landline": [
+        "landline": [
             "9419150823(P)"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdcdharmari2008@gmail.com"
         ],
-        "District": "Reasi",
-        "Website": ""
+        "district": "Reasi",
+        "website": ""
     },
     {
-        "College ID": "108",
-        "College Name": "Govt. Degree College Sarh Bagga Mahore",
-        "Mobile Phone": [
+        "college_id": "108",
+        "college_name": "Govt. Degree College Sarh Bagga Mahore",
+        "mobile_number": [
             "9419255646"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdcsarhbaggamahore@gmail.com"
         ],
-        "District": "Reasi",
-        "Website": ""
+        "district": "Reasi",
+        "website": ""
     },
     {
-        "College ID": "109",
-        "College Name": "Govt. Degree College Doda",
-        "Mobile Phone": [
+        "college_id": "109",
+        "college_name": "Govt. Degree College Doda",
+        "mobile_number": [
             "9419168898"
         ],
-        "Landline": [
+        "landline": [
             "01996-233552"
         ],
-        "EMail ID": [
-            "principalgdcdo[AT]yahoo[DOT]in"
+        "email_id": [
+            "principalgdcdo@yahoo.in"
         ],
-        "District": "Doda",
-        "Website": "http://www.gdcdoda.com"
+        "district": "Doda",
+        "website": "http://www.gdcdoda.com"
     },
     {
-        "College ID": "110",
-        "College Name": "Govt. Degree College Bhaderwah",
-        "Mobile Phone": [
+        "college_id": "110",
+        "college_name": "Govt. Degree College Bhaderwah",
+        "mobile_number": [
             "9419175805"
         ],
-        "Landline": [
+        "landline": [
             "01997-244155"
         ],
-        "EMail ID": [
+        "email_id": [
             "principalgdcbhaderwah@gmail.com"
         ],
-        "District": "Doda",
-        "Website": ""
+        "district": "Doda",
+        "website": ""
     },
     {
-        "College ID": "111",
-        "College Name": "Govt. Degree College Kilhotran",
-        "Mobile Phone": [
+        "college_id": "111",
+        "college_name": "Govt. Degree College Kilhotran",
+        "mobile_number": [
             "9419936030"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdckilhotran@yahoo.com"
         ],
-        "District": "Doda",
-        "Website": ""
+        "district": "Doda",
+        "website": ""
     },
     {
-        "College ID": "112",
-        "College Name": "Govt. Degree College Thathri",
-        "Mobile Phone": [],
-        "Landline": [],
-        "EMail ID": [
+        "college_id": "112",
+        "college_name": "Govt. Degree College Thathri",
+        "mobile_number": [],
+        "landline": [],
+        "email_id": [
             "principal.thathri@gmail.com"
         ],
-        "District": "Doda",
-        "Website": ""
+        "district": "Doda",
+        "website": ""
     },
     {
-        "College ID": "113",
-        "College Name": "Govt. Degree College Kishtwar",
-        "Mobile Phone": [
+        "college_id": "113",
+        "college_name": "Govt. Degree College Kishtwar",
+        "mobile_number": [
             "9419154591"
         ],
-        "Landline": [
+        "landline": [
             "01995-259513"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdckishtwar@gmail.com"
         ],
-        "District": "Kishtwar",
-        "Website": ""
+        "district": "Kishtwar",
+        "website": ""
     },
     {
-        "College ID": "114",
-        "College Name": "Govt. Degree College Chatroo",
-        "Mobile Phone": [
+        "college_id": "114",
+        "college_name": "Govt. Degree College Chatroo",
+        "mobile_number": [
             "9596637491",
             "9419933933"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdcchatroo@gmail.com"
         ],
-        "District": "Kishtwar",
-        "Website": ""
+        "district": "Kishtwar",
+        "website": ""
     },
     {
-        "College ID": "115",
-        "College Name": "Govt. Degree College Marwah",
-        "Mobile Phone": [
+        "college_id": "115",
+        "college_name": "Govt. Degree College Marwah",
+        "mobile_number": [
             "7298128229"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "principalmarwah@gmail.com"
         ],
-        "District": "Kishtwar",
-        "Website": "http://www.kishtwar.nic.in"
+        "district": "Kishtwar",
+        "website": "http://www.kishtwar.nic.in"
     },
     {
-        "College ID": "116",
-        "College Name": "Govt. Degree College Ramban",
-        "Mobile Phone": [
+        "college_id": "116",
+        "college_name": "Govt. Degree College Ramban",
+        "mobile_number": [
             "9419167464"
         ],
-        "Landline": [
+        "landline": [
             "01998-266779"
         ],
-        "EMail ID": [
+        "email_id": [
             "principalgdcramban@gmail.com"
         ],
-        "District": "Ramban",
-        "Website": "http://www.gdcramban.com"
+        "district": "Ramban",
+        "website": "http://www.gdcramban.com"
     },
     {
-        "College ID": "117",
-        "College Name": "Govt. Degree College Banihal",
-        "Mobile Phone": [
+        "college_id": "117",
+        "college_name": "Govt. Degree College Banihal",
+        "mobile_number": [
             "9419993725"
         ],
-        "Landline": [
+        "landline": [
             "01998-255906"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdc.banihal@yahoo.com"
         ],
-        "District": "Ramban",
-        "Website": ""
+        "district": "Ramban",
+        "website": ""
     },
     {
-        "College ID": "118",
-        "College Name": "Govt. Degree College Gool",
-        "Mobile Phone": [
+        "college_id": "118",
+        "college_name": "Govt. Degree College Gool",
+        "mobile_number": [
             "9419993941"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "principalgdcgool@gmail.com"
         ],
-        "District": "Ramban",
-        "Website": ""
+        "district": "Ramban",
+        "website": ""
     },
     {
-        "College ID": "119",
-        "College Name": "Govt. College of Engineering & Technology Jammu",
-        "Mobile Phone": [
+        "college_id": "119",
+        "college_name": "Govt. College of Engineering & Technology Jammu",
+        "mobile_number": [
             "9419198912"
         ],
-        "Landline": [
+        "landline": [
             "0191-2623087"
         ],
-        "EMail ID": [
+        "email_id": [
             "gcet_jammu1994@rediffmail.com"
         ],
-        "District": "Jammu",
-        "Website": ""
+        "district": "Jammu",
+        "website": ""
     },
     {
-        "College ID": "120",
-        "College Name": "Govt. Degree College Majalta",
-        "Mobile Phone": [
+        "college_id": "120",
+        "college_name": "Govt. Degree College Majalta",
+        "mobile_number": [
             "9419295246"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "principalgdcmajalta@gmail.com"
         ],
-        "District": "Udhampur",
-        "Website": ""
+        "district": "Udhampur",
+        "website": ""
     },
     {
-        "College ID": "121",
-        "College Name": "Govt. Degree College Nagrota",
-        "Mobile Phone": [
+        "college_id": "121",
+        "college_name": "Govt. Degree College Nagrota",
+        "mobile_number": [
             "9469853316"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdcnagrota@gmail.com"
         ],
-        "District": "Jammu",
-        "Website": ""
+        "district": "Jammu",
+        "website": ""
     },
     {
-        "College ID": "122",
-        "College Name": "Govt. Degree College Sidhra",
-        "Mobile Phone": [
+        "college_id": "122",
+        "college_name": "Govt. Degree College Sidhra",
+        "mobile_number": [
             "9419208849"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "principalgdcsidhra@gmail.com"
         ],
-        "District": "Jammu",
-        "Website": ""
+        "district": "Jammu",
+        "website": ""
     },
     {
-        "College ID": "123",
-        "College Name": "Govt. Degree College Kunjwani/Sainik Colony",
-        "Mobile Phone": [
+        "college_id": "123",
+        "college_name": "Govt. Degree College Kunjwani/Sainik Colony",
+        "mobile_number": [
             "9419181394"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdckunjwani19@gmail.co"
         ],
-        "District": "Jammu",
-        "Website": ""
+        "district": "Jammu",
+        "website": ""
     },
     {
-        "College ID": "124",
-        "College Name": "Govt. Degree College for Women Bhagwatinagar, Jammu",
-        "Mobile Phone": [
+        "college_id": "124",
+        "college_name": "Govt. Degree College for Women Bhagwatinagar, Jammu",
+        "mobile_number": [
             "9419188878"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gcwbn19@gmail.com"
         ],
-        "District": "Jammu",
-        "Website": ""
+        "district": "Jammu",
+        "website": ""
     },
     {
-        "College ID": "125",
-        "College Name": "Govt. Degree College Jourian",
-        "Mobile Phone": [
+        "college_id": "125",
+        "college_name": "Govt. Degree College Jourian",
+        "mobile_number": [
             "7006489231"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdcjourian@gmail.com"
         ],
-        "District": "Jammu",
-        "Website": ""
+        "district": "Jammu",
+        "website": ""
     },
     {
-        "College ID": "126",
-        "College Name": "Govt. Degree College Ghagwal",
-        "Mobile Phone": [
+        "college_id": "126",
+        "college_name": "Govt. Degree College Ghagwal",
+        "mobile_number": [
             "9419201024"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdcghagwal2019@gmail.com"
         ],
-        "District": "Samba",
-        "Website": ""
+        "district": "Samba",
+        "website": ""
     },
     {
-        "College ID": "127",
-        "College Name": "Govt. Degree College Vijaypur",
-        "Mobile Phone": [
+        "college_id": "127",
+        "college_name": "Govt. Degree College Vijaypur",
+        "mobile_number": [
             "7006811445"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdcvijaypur@gmail.com"
         ],
-        "District": "Samba",
-        "Website": ""
+        "district": "Samba",
+        "website": ""
     },
     {
-        "College ID": "128",
-        "College Name": "Govt. Degree College Ramgarh",
-        "Mobile Phone": [
+        "college_id": "128",
+        "college_name": "Govt. Degree College Ramgarh",
+        "mobile_number": [
             "9149464907"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdcramgarh@gmail.com"
         ],
-        "District": "Samba",
-        "Website": ""
+        "district": "Samba",
+        "website": ""
     },
     {
-        "College ID": "139",
-        "College Name": "Govt. Degree College Purmandal",
-        "Mobile Phone": [
+        "college_id": "139",
+        "college_name": "Govt. Degree College Purmandal",
+        "mobile_number": [
             "9419188275"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdcpurmandal@gmail.com"
         ],
-        "District": "Samba",
-        "Website": ""
+        "district": "Samba",
+        "website": ""
     },
     {
-        "College ID": "130",
-        "College Name": "Govt. Degree College Ramkote",
-        "Mobile Phone": [
+        "college_id": "130",
+        "college_name": "Govt. Degree College Ramkote",
+        "mobile_number": [
             "9419797245"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdcramkote2019@gmail.com"
         ],
-        "District": "Kathua",
-        "Website": ""
+        "district": "Kathua",
+        "website": ""
     },
     {
-        "College ID": "131",
-        "College Name": "Govt. Degree College Marheen",
-        "Mobile Phone": [
+        "college_id": "131",
+        "college_name": "Govt. Degree College Marheen",
+        "mobile_number": [
             "9419197408"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdcmarheen@gmail.com"
         ],
-        "District": "Kathua",
-        "Website": ""
+        "district": "Kathua",
+        "website": ""
     },
     {
-        "College ID": "132",
-        "College Name": "Govt. Degree College Pouni",
-        "Mobile Phone": [],
-        "Landline": [],
-        "EMail ID": [],
-        "District": "Reasi",
-        "Website": ""
+        "college_id": "132",
+        "college_name": "Govt. Degree College Pouni",
+        "mobile_number": [],
+        "landline": [],
+        "email_id": [],
+        "district": "Reasi",
+        "website": ""
     },
     {
-        "College ID": "133",
-        "College Name": "Govt. Degree College Kakryal Katra",
-        "Mobile Phone": [
+        "college_id": "133",
+        "college_name": "Govt. Degree College Kakryal Katra",
+        "mobile_number": [
             "9419198905"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdckatra@gmail.com"
         ],
-        "District": "Reasi",
-        "Website": ""
+        "district": "Reasi",
+        "website": ""
     },
     {
-        "College ID": "134",
-        "College Name": "Govt. Degree College Paddar",
-        "Mobile Phone": [
+        "college_id": "134",
+        "college_name": "Govt. Degree College Paddar",
+        "mobile_number": [
             "8082319562"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdcpadder@gmail.com"
         ],
-        "District": "Kishtwar",
-        "Website": ""
+        "district": "Kishtwar",
+        "website": ""
     },
     {
-        "College ID": "135",
-        "College Name": "Govt. Degree College Kastigarh",
-        "Mobile Phone": [
+        "college_id": "135",
+        "college_name": "Govt. Degree College Kastigarh",
+        "mobile_number": [
             "9419141345"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdckastigarh01@gmail.com"
         ],
-        "District": "Doda",
-        "Website": ""
+        "district": "Doda",
+        "website": ""
     },
     {
-        "College ID": "136",
-        "College Name": "Govt. Degree College Ukhral",
-        "Mobile Phone": [
+        "college_id": "136",
+        "college_name": "Govt. Degree College Ukhral",
+        "mobile_number": [
             "9419152052"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdcukhral19@gmail.com"
         ],
-        "District": "Ramban",
-        "Website": ""
+        "district": "Ramban",
+        "website": ""
     },
     {
-        "College ID": "137",
-        "College Name": "Govt. Degree College Batote",
-        "Mobile Phone": [
+        "college_id": "137",
+        "college_name": "Govt. Degree College Batote",
+        "mobile_number": [
             "9419201025"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdcbatote19@gmail.com"
         ],
-        "District": "Ramban",
-        "Website": ""
+        "district": "Ramban",
+        "website": ""
     },
     {
-        "College ID": "138",
-        "College Name": "Govt. Degree College Doongi",
-        "Mobile Phone": [],
-        "Landline": [
+        "college_id": "138",
+        "college_name": "Govt. Degree College Doongi",
+        "mobile_number": [],
+        "landline": [
             "01962-244401"
         ],
-        "EMail ID": [
+        "email_id": [
             "gdcdoongi@gmail.com"
         ],
-        "District": "Rajouri",
-        "Website": ""
+        "district": "Rajouri",
+        "website": ""
     },
     {
-        "College ID": "139",
-        "College Name": "Govt. Degree College Peeri/Kotranka",
-        "Mobile Phone": [
+        "college_id": "139",
+        "college_name": "Govt. Degree College Peeri/Kotranka",
+        "mobile_number": [
             "9419263121"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "gdckotranka@gmail.com"
         ],
-        "District": "Rajouri",
-        "Website": ""
+        "district": "Rajouri",
+        "website": ""
     },
     {
-        "College ID": "140",
-        "College Name": "Govt. Degree College Darhal",
-        "Mobile Phone": [
+        "college_id": "140",
+        "college_name": "Govt. Degree College Darhal",
+        "mobile_number": [
             "9419150807"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "darhalgdc@gmail.com"
         ],
-        "District": "Rajouri",
-        "Website": ""
+        "district": "Rajouri",
+        "website": ""
     },
     {
-        "College ID": "141",
-        "College Name": "Govt. Degree College Mandi",
-        "Mobile Phone": [
+        "college_id": "141",
+        "college_name": "Govt. Degree College Mandi",
+        "mobile_number": [
             "9622191668"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "degreecollegemandi@gmail.com"
         ],
-        "District": "Poonch",
-        "Website": ""
+        "district": "Poonch",
+        "website": ""
     },
     {
-        "College ID": "142",
-        "College Name": "Govt. Degree College Chenani",
-        "Mobile Phone": [
+        "college_id": "142",
+        "college_name": "Govt. Degree College Chenani",
+        "mobile_number": [
             "9419194244"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "principalgdcchenani@yahoo.com"
         ],
-        "District": "Udhampur",
-        "Website": ""
+        "district": "Udhampur",
+        "website": ""
     },
     {
-        "College ID": "143",
-        "College Name": "Govt. Degree College Neeli Nallah",
-        "Mobile Phone": [
+        "college_id": "143",
+        "college_name": "Govt. Degree College Neeli Nallah",
+        "mobile_number": [
             "9419189831"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "principalgdcneelinallah@gmail.com"
         ],
-        "District": "Udhampur",
-        "Website": ""
+        "district": "Udhampur",
+        "website": ""
     },
     {
-        "College ID": "144",
-        "College Name": "Govt. Degree College Dudu Basantgarh",
-        "Mobile Phone": [
+        "college_id": "144",
+        "college_name": "Govt. Degree College Dudu Basantgarh",
+        "mobile_number": [
             "9419980767"
         ],
-        "Landline": [],
-        "EMail ID": [
+        "landline": [],
+        "email_id": [
             "principalgdcdb@gmail.com"
         ],
-        "District": "Udhampur",
-        "Website": ""
+        "district": "Udhampur",
+        "website": ""
     },
     {
-        "College ID": "145",
-        "College Name": "Govt. Degree College Mongri Panchari at Kainth Gali",
-        "Mobile Phone": [],
-        "Landline": [],
-        "EMail ID": [],
-        "District": "Udhampur",
-        "Website": ""
+        "college_id": "145",
+        "college_name": "Govt. Degree College Mongri Panchari at Kainth Gali",
+        "mobile_number": [],
+        "landline": [],
+        "email_id": [],
+        "district": "Udhampur",
+        "website": ""
     }
 ]
