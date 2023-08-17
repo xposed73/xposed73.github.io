@@ -6,7 +6,7 @@ fetch('data.json')
     .then(appDetails => {
         appDetails.forEach(app => {
             const cardCol = document.createElement("div");
-            cardCol.classList.add("col-md-2", "mb-4");
+            cardCol.classList.add("col-lg-2", "col-md-3", "col-sm-4", "mb-4");
 
             const card = document.createElement("div");
             card.classList.add("card");
