@@ -3,7 +3,7 @@
     {
       "radio_name": "Habaieb America",
       "radio_genre": "Now Playing",
-      "radio_url": "http://188.166.95.19:8000/stream",
+      "radio_url": "https://a2.asurahosting.com:6750/radio.mp3",
       "radio_image_url": "",
       "background_image_url": "",
       "blur_radio_background": "false",
