@@ -1,614 +1,166 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html>
 <head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta charset="UTF-8">
+    <title>xposed73</title>
+    <style>
+        .container {
+  width: 250px;
+  height: 250px;
+}
 
-  <title>Nadeem Akhtar Khan</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+.terminal_toolbar {
+  display: flex;
+  height: 30px;
+  align-items: center;
+  padding: 0 8px;
+  box-sizing: border-box;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  background: #212121;
+  justify-content: space-between;
+}
 
-  <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+.butt {
+  display: flex;
+  align-items: center;
+}
 
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  margin-right: 5px;
+  font-size: 8px;
+  height: 12px;
+  width: 12px;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 100%;
+  background: linear-gradient(#7d7871 0%, #595953 100%);
+  text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.2);
+  box-shadow: 0px 0px 1px 0px #41403A, 0px 1px 1px 0px #474642;
+}
 
-  <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
+.btn-color {
+  background: #ee411a;
+}
 
-  <!-- =======================================================
-  * Template Name: DevFolio
-  * Updated: Mar 10 2023 with Bootstrap v5.2.3
-  * Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+.btn:hover {
+  cursor: pointer;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+.butt--exit {
+  background: linear-gradient(#f37458 0%, #de4c12 100%);
+}
+
+.add_tab {
+  border: 1px solid #fff;
+  color: #fff;
+  padding: 0 6px;
+  border-radius: 4px 4px 0 0;
+  border-bottom: none;
+  cursor: pointer;
+}
+
+.user {
+  color: #d5d0ce;
+  margin-left: 6px;
+  font-size: 14px;
+  line-height: 15px;
+}
+
+.terminal_body {
+  background: rgba(0, 0, 0, 0.6);
+  height: calc(100% - 30px);
+  padding-top: 2px;
+  margin-top: -1px;
+  font-size: 12px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.terminal_promt {
+  display: flex;
+}
+
+.terminal_promt span {
+  margin-left: 4px;
+}
+
+.terminal_user {
+  color: #1eff8e;
+}
+
+.terminal_location {
+  color: #4878c0;
+}
+
+.terminal_bling {
+  color: #dddddd;
+}
+
+.terminal_cursor {
+  display: block;
+  height: 14px;
+  width: 5px;
+  margin-left: 10px;
+  animation: curbl 1200ms linear infinite;
+}
+
+@keyframes curbl {
+
+  0% {
+    background: #ffffff;
+  }
+
+  49% {
+    background: #ffffff;
+  }
+
+  60% {
+    background: transparent;
+  }
+
+  99% {
+    background: transparent;
+  }
+
+  100% {
+    background: #ffffff;
+  }
+}
+    </style>
 </head>
 
 <body>
 
-  <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top">
-    <div class="container d-flex align-items-center justify-content-between">
-
-      <h1 class="logo"><a href="index.html">NADEEM AKHTAR KHAN</a></h1>
-      <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
-
-      <nav id="navbar" class="navbar">
-        <ul>
-          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#services">Services</a></li>
-          <li><a class="nav-link scrollto " href="#work">Work</a></li>
-          <!-- <li><a class="nav-link scrollto " href="#blog">Blog</a></li>
-          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
-            <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
-                <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-            </ul>
-          </li> -->
-          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-        </ul>
-        <i class="bi bi-list mobile-nav-toggle"></i>
-      </nav><!-- .navbar -->
-
-    </div>
-  </header><!-- End Header -->
-
-  <!-- ======= Hero Section ======= -->
-  <div id="hero" class="hero route bg-image" style="background-image: url(assets/img/hero-bg.jpg)">
-    <div class="overlay-itro"></div>
-    <div class="hero-content display-table">
-      <div class="table-cell">
-        <div class="container">
-          <!--<p class="display-6 color-d">Hello, world!</p>-->
-          <h1 class="hero-title mb-4">I am NADEEM AKHTAR KHAN</h1>
-          <p class="hero-subtitle"><span class="typed" data-typed-items="Designer, Developer, Freelancer, Cyber Security Professional"></span></p>
-          <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
-        </div>
-      </div>
-    </div>
-  </div><!-- End Hero Section -->
-
-  <main id="main">
-
-    <!-- ======= About Section ======= -->
-    <section id="about" class="about-mf sect-pt4 route">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-12">
-            <div class="box-shadow-full">
-              <div class="row">
-                <div class="col-md-6">
-                  <div class="row">
-                    <div class="col-sm-6 col-md-5">
-                      <div class="about-img">
-                        <img src="https://avatars.githubusercontent.com/u/46350409?v=4" class="img-fluid rounded b-shadow-a" width="200" height="200" alt="">
-                      </div>
-                    </div>
-                    <div class="col-sm-6 col-md-7">
-                      <div class="about-info">
-                        <p><span class="title-s">Name: </span> <span>NADEEM AKHTAR KHAN</span></p>
-                        <p><span class="title-s">Profile: </span> <span>Software Developer</span></p>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="skill-mf">
-                    <p class="title-s">Skill</p>
-                    
-                    <span>HTML/HTML5</span> <span class="pull-right"><b>(90%)</b></span>
-                    <div class="progress">
-                      <div class="progress-bar" role="progressbar" style="width: 90%;" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-
-                    <span>CSS/CSS3</span> <span class="pull-right"><b>(70%)</b></span>
-                    <div class="progress">
-                      <div class="progress-bar" role="progressbar" style="width: 70%;" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-
-                    <span>JavaScript</span> <span class="pull-right"><b>(90%)</b></span>
-                    <div class="progress">
-                      <div class="progress-bar" role="progressbar" style="width: 90%;" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-        
-                    <span>Java</span> <span class="pull-right"><b>(80%)</b></span>
-                    <div class="progress">
-                      <div class="progress-bar" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-
-                    <span>Python</span> <span class="pull-right"><b>(78%)</b></span>
-                    <div class="progress">
-                      <div class="progress-bar" role="progressbar" style="width: 78%;" aria-valuenow="78" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>                 
-
-                    <span>Adobe CC</span> <span class="pull-right"><b>(90%)</b></span>
-                    <div class="progress">
-                      <div class="progress-bar" role="progressbar" style="width: 90%;" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-
-                    <span>Cyber Security</span> <span class="pull-right"><b>(95%)</b></span>
-                    <div class="progress">
-                      <div class="progress-bar" role="progressbar" style="width: 95%;" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-              
-
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="about-me pt-4 pt-md-0">
-                    <div class="title-box-2">
-                      <h5 class="title-left">
-                        About me
-                      </h5>
-                    </div>
-                  
-                    <p class="lead">
-                      Hi there! I'm a seasoned software developer with expertise in Android development, Java, Python, NodeJS, Data Science, and Machine Learning. With over 5 years of experience in the field, I've had the opportunity to work on a wide range of projects and develop my skills in diverse areas.
-                    </p>
-
-                    <p class="lead">
-                      My passion for software development began in 2014, and since then, I've been dedicated to staying on top of the latest trends and techniques in the industry. Whether it's building innovative mobile apps, developing complex algorithms, or analyzing data to gain valuable insights, I'm always up for a challenge.
-                    </p>
-
-                    <p class="lead">
-                      In addition to my technical skills, I'm also a strong communicator and collaborator. I enjoy working with clients and colleagues to understand their needs and develop solutions that exceed their expectations. With my proven track record of delivering high-quality work on time and on budget, I'm confident that I can help you achieve your goals.
-                    </p>
-
-                    <p class="lead">
-                      If you're looking for a software developer who is passionate, skilled, and dedicated to delivering results, I'd love to chat with you about your project. Let's connect!
-                    </p>
-
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section><!-- End About Section -->
-
-    <!-- ======= Services Section ======= -->
-    <section id="services" class="services-mf pt-5 route">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-12">
-            <div class="title-box text-center">
-              <h3 class="title-a">
-                Services
-              </h3>
-              <p class="subtitle-a">
-                Tailored services for your success. Web design, development, social media, and more.
-              </p>
-              <div class="line-mf"></div>
-            </div>
-          </div>
-        </div>
-        
-        <div class="row">
-          
-          <div class="col-md-4">
-            <div class="service-box">
-              <div class="service-ico">
-                <span class="ico-circle"><i class="bi bi-code-slash"></i></span>
-              </div>
-              <div class="service-content">
-                <h2 class="s-title">Web Design & Development</h2>
-                <p class="s-description text-center">
-                  Whether you need a website for your small business, online store, or personal brand, I can create a unique design that reflects your vision and meets your business goals. 
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-4">
-            <div class="service-box">
-              <div class="service-ico">
-                <span class="ico-circle"><i class="bi bi-android"></i></span>
-              </div>
-              <div class="service-content">
-                <h2 class="s-title">Android Development</h2>
-                <p class="s-description text-center">
-                  Experienced Android developer offering innovative and high-quality Android app development services. Expertise in Android SDK, Android Studio, Java, Kotlin, and more. Let's bring your app vision to life!
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-md-4">
-            <div class="service-box">
-              <div class="service-ico">
-                <span class="ico-circle"><i class="bi bi-bezier2"></i></span>
-              </div>
-              <div class="service-content">
-                <h2 class="s-title">Graphic Designing</h2>
-                <p class="s-description text-center">
-                  Professional graphic designer with 5+ years of experience. Specializes in logo, branding, print, and web design. Let's create a stunning design that captures your brand's personality and message!
-                </p>
-              </div>
-            </div>
-          </div>
-                   
-        </div>
-      </div>
-    </section><!-- End Services Section -->
-
-    <!-- ======= Counter Section ======= -->
-    <div class="section-counter paralax-mf bg-image" style="background-image: url(assets/img/counters-bg.jpg)">
-      <div class="overlay-mf"></div>
-      <div class="container position-relative">
-        <div class="row">
-          <div class="col-sm-3 col-lg-3">
-            <div class="counter-box counter-box pt-4 pt-md-0">
-              <div class="counter-ico">
-                <span class="ico-circle"><i class="bi bi-check"></i></span>
-              </div>
-              <div class="counter-num">
-                <p data-purecounter-start="0" data-purecounter-end="170" data-purecounter-duration="1" class="counter purecounter"></p>
-                <span class="counter-text">WORKS COMPLETED</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-sm-3 col-lg-3">
-            <div class="counter-box pt-4 pt-md-0">
-              <div class="counter-ico">
-                <span class="ico-circle"><i class="bi bi-journal-richtext"></i></span>
-              </div>
-              <div class="counter-num">
-                <p data-purecounter-start="0" data-purecounter-end="6" data-purecounter-duration="1" class="counter purecounter"></p>
-                <span class="counter-text">YEARS OF EXPERIENCE</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-sm-3 col-lg-3">
-            <div class="counter-box pt-4 pt-md-0">
-              <div class="counter-ico">
-                <span class="ico-circle"><i class="bi bi-people"></i></span>
-              </div>
-              <div class="counter-num">
-                <p data-purecounter-start="0" data-purecounter-end="100" data-purecounter-duration="1" class="counter purecounter"></p>
-                <span class="counter-text">TOTAL CLIENTS</span>
-              </div>
-            </div>
-          </div>
-          <div class="col-sm-3 col-lg-3">
-            <div class="counter-box pt-4 pt-md-0">
-              <div class="counter-ico">
-                <span class="ico-circle"><i class="bi bi-award"></i></span>
-              </div>
-              <div class="counter-num">
-                <p data-purecounter-start="0" data-purecounter-end="7" data-purecounter-duration="1" class="counter purecounter"></p>
-                <span class="counter-text">CERTIFICATIONS</span>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div><!-- End Counter Section -->
-
-    <!-- ======= Portfolio Section ======= -->
-    <section id="work" class="portfolio-mf sect-pt4 route">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-12">
-            <div class="title-box text-center">
-              <h3 class="title-a">
-                Portfolio
-              </h3>
-              <p class="subtitle-a">
-                Here, I have listed few of my apps which are live on Google Play Store.
-              </p>
-              <div class="line-mf"></div>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          
-
-          <div class="col-md-4">
-            <div class="work-box">
-              <a href="assets/img/3d_chem.png" data-gallery="portfolioGallery" class="portfolio-lightbox">
-                <div class="work-img">
-                  <img src="assets/img/3d_chem.png" alt="" class="img-fluid">
-                </div>
-              </a>
-              <div class="work-content">
-                <div class="row">
-                  <div class="col-sm-8">
-                    <h2 class="w-title">3D Chemistry</h2>
-                    <div class="w-more">
-                      <span class="w-ctegory">Android</span> / <span class="w-date">11 Jan. 2023</span>
-                    </div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="w-like">
-                      <a href="https://play.google.com/store/apps/details?id=com.md.chemistry3d"> <span class="bi bi-chevron-right"></span></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>  
-
-          <div class="col-md-4">
-            <div class="work-box">
-              <a href="assets/img/passport_tracker.png" data-gallery="portfolioGallery" class="portfolio-lightbox">
-                <div class="work-img">
-                  <img src="assets/img/passport_tracker.png" alt="" class="img-fluid">
-                </div>
-              </a>
-              <div class="work-content">
-                <div class="row">
-                  <div class="col-sm-8">
-                    <h2 class="w-title">Passport Tracker (India)</h2>
-                    <div class="w-more">
-                      <span class="w-ctegory">Android</span> / <span class="w-date">10 Sep. 2022</span>
-                    </div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="w-like">
-                      <a href="https://play.google.com/store/apps/details?id=com.md.pptracker"> <span class="bi bi-chevron-right"></span></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>     
-          
-          <div class="col-md-4">
-            <div class="work-box">
-              <a href="assets/img/ignou_res.png" data-gallery="portfolioGallery" class="portfolio-lightbox">
-                <div class="work-img">
-                  <img src="assets/img/ignou_res.png" alt="" class="img-fluid">
-                </div>
-              </a>
-              <div class="work-content">
-                <div class="row">
-                  <div class="col-sm-8">
-                    <h2 class="w-title">IGNOU Results</h2>
-                    <div class="w-more">
-                      <span class="w-ctegory">Android</span> / <span class="w-date">30 Oct. 2021</span>
-                    </div>
-                  </div>
-                  <div class="col-sm-4">
-                    <div class="w-like">
-                      <a href="https://play.google.com/store/apps/details?id=com.xainull.ignouresults"> <span class="bi bi-chevron-right"></span></a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>  
-
-        </div>
-      </div>
-    </section><!-- End Portfolio Section -->
-
-    <!-- ======= Testimonials Section ======= -->
-    <div class="testimonials paralax-mf bg-image" style="background-image: url(assets/img/overlay-bg.jpg)">
-      <div class="overlay-mf"></div>
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-
-            <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
-              <div class="swiper-wrapper">
-
-                <div class="swiper-slide">
-                  <div class="testimonial-box">
-                    <div class="author-test">
-                      <img src="assets/img/web_1.png" alt="" class="rounded-circle b-shadow-a">
-                      <span class="author">Stephen Cole (Canada)</span>
-                    </div>
-                    <div class="content-test">
-                      <p class="description lead">
-                        Great individual to work with and truly did my app the way I liked, Thank you.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="swiper-slide">
-                  <div class="testimonial-box">
-                    <div class="author-test">
-                      <img src="assets/img/web_2.png" alt="" class="rounded-circle b-shadow-a">
-                      <span class="author">Qamar Gul (Pakistan)</span>
-                    </div>
-                    <div class="content-test">
-                      <p class="description lead">
-                        Thank you! It was a good experience!.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="swiper-slide">
-                  <div class="testimonial-box">
-                    <div class="author-test">
-                      <img src="assets/img/web_3.png" alt="" class="rounded-circle b-shadow-a">
-                      <span class="author">Ideality Studios (Italy)</span>
-                    </div>
-                    <div class="content-test">
-                      <p class="description lead">
-                        Ottima esperienza con il venditore. veloce nella consegna molto professionale. Da consigliare.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="swiper-slide">
-                  <div class="testimonial-box">
-                    <div class="author-test">
-                      <img src="assets/img/web_4.png" alt="" class="rounded-circle b-shadow-a">
-                      <span class="author">Radio Luna Web (Italy)</span>
-                    </div>
-                    <div class="content-test">
-                      <p class="description lead">
-                        Ottimo rivenditore professionale e sempre disponibile.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="swiper-slide">
-                  <div class="testimonial-box">
-                    <div class="author-test">
-                      <img src="assets/img/web_5.png" alt="" class="rounded-circle b-shadow-a">
-                      <span class="author">Rich Clewes (United Kingdom)</span>
-                    </div>
-                    <div class="content-test">
-                      <p class="description lead">
-                        Excellent service thank you From Radio Lanarkshire..
-                      </p>
-                    </div>
-                  </div>
-                </div>           
-                
-                <!-- End testimonial item -->
-
-                
-              </div>
-              <div class="swiper-pagination"></div>
-            </div>
-
-            <!-- <div id="testimonial-mf" class="owl-carousel owl-theme">
-          
-        </div> -->
-          </div>
-        </div>
-      </div>
-    </div><!-- End Testimonials Section -->
-
-  
-    <!-- ======= Contact Section ======= -->
-    <section id="contact" class="paralax-mf footer-paralax bg-image sect-mt4 route" style="background-image: url(assets/img/overlay-bg.jpg)">
-      <div class="overlay-mf"></div>
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-12">
-            <div class="contact-mf">
-              <div id="contact" class="box-shadow-full">
-                <div class="row">
-                  <div class="col-md-6">
-                    <div class="title-box-2">
-                      <h5 class="title-left">
-                        Send Message Us
-                      </h5>
-                    </div>
-                    <div>
-                      <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-                        <div class="row">
-                          <div class="col-md-12 mb-3">
-                            <div class="form-group">
-                              <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
-                            </div>
-                          </div>
-                          <div class="col-md-12 mb-3">
-                            <div class="form-group">
-                              <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
-                            </div>
-                          </div>
-                          <div class="col-md-12 mb-3">
-                            <div class="form-group">
-                              <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
-                            </div>
-                          </div>
-                          <div class="col-md-12">
-                            <div class="form-group">
-                              <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
-                            </div>
-                          </div>
-                          <div class="col-md-12 text-center my-3">
-                            <div class="loading">Loading</div>
-                            <div class="error-message"></div>
-                            <div class="sent-message">Your message has been sent. Thank you!</div>
-                          </div>
-                          <div class="col-md-12 text-center">
-                            <button type="submit" class="button button-a button-big button-rouded">Send Message</button>
-                          </div>
-                        </div>
-                      </form>
-                    </div>
-                  </div>
-                  <div class="col-md-6">
-                    <div class="title-box-2 pt-4 pt-md-0">
-                      <h5 class="title-left">
-                        Get in Touch
-                      </h5>
-                    </div>
-                    <div class="more-info">
-                      <p class="lead">
-                        Hello! If you're interested in working with me on a software development project, please fill out the form below with your name, email address, and a brief message outlining your project needs. I'll get back to you as soon as possible to discuss the project further and provide you with a quote. I look forward to hearing from you!
-                      </p>
-<!--                       <ul class="list-ico">
-                        <li><span class="bi bi-geo-alt"></span> LOCATION</li>
-                        <li><span class="bi bi-phone"></span> PHONE</li>
-                        <li><span class="bi bi-envelope"></span> EMAIL</li> -->
-                      </ul>
-                    </div>
-                    <div class="socials">
-                      <ul>                                
-                        <li><a href="https://www.linkedin.com/in/xposed/"><span class="ico-circle"><i class="bi bi-linkedin"></i></span></a></li>
-                        <li><a href="https://www.github.com/xposed73/"><span class="ico-circle"><i class="bi bi-github"></i></span></a></li>
-                        <li><a href="mailto:ndmk.edu@gmail.com"><span class="ico-circle"><i class="bi bi-envelope"></i></span></a></li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section><!-- End Contact Section -->
-
-  </main><!-- End #main -->
-
-  <!-- ======= Footer ======= -->
-  <footer>
     <div class="container">
-      <div class="row">
-        <div class="col-sm-12">
-            <div class="credits">
-              Designed by <a href="https://github.com/xposed73">Xposed73</a>
+        <div class="terminal_toolbar">
+            <div class="butt">
+                <button class="btn btn-color"></button>
+                <button class="btn"></button>
+                <button class="btn"></button>
             </div>
-          
+            <p class="user">root@xposed73: ~</p>
+            <div class="add_tab">
+                +
+            </div>
         </div>
-      </div>
+        <div class="terminal_body">
+            <div class="terminal_promt">
+                <span class="terminal_user">root@xposed73:</span>
+                <span class="terminal_location">~</span>
+                <span class="terminal_bling">$</span>
+                <span class="terminal_cursor"></span>
+            </div>
+        </div>
     </div>
-  </footer><!-- End  Footer -->
-
-  <div id="preloader"></div>
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
-
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/typed.js/typed.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
-
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
 
 </body>
-
 </html>
