@@ -1,0 +1,1948 @@
+{
+	"categories": [
+		{
+			"category_name": "Aerospace Engineering",
+			"category_icon": "ae",
+			"items": [
+				{
+					"title": "Aerospace Engineering",
+					"code": "ae",
+					"year": 2007,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2007/ae_2007.pdf"
+				},
+				{
+					"title": "Aerospace Engineering",
+					"code": "ae",
+					"year": 2008,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2008/ae_2008.pdf"
+				},
+				{
+					"title": "Aerospace Engineering",
+					"code": "ae",
+					"year": 2009,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2009/ae_2009.pdf"
+				},
+				{
+					"title": "Aerospace Engineering",
+					"code": "ae",
+					"year": 2010,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2010/ae_2010.pdf"
+				},
+				{
+					"title": "Aerospace Engineering",
+					"code": "ae",
+					"year": 2011,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2011/ae_2011.pdf"
+				},
+				{
+					"title": "Aerospace Engineering",
+					"code": "ae",
+					"year": 2012,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2012/ae_2012.pdf"
+				},
+				{
+					"title": "Aerospace Engineering",
+					"code": "ae",
+					"year": 2013,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2013/ae_2013.pdf"
+				},
+				{
+					"title": "Aerospace Engineering",
+					"code": "ae",
+					"year": 2014,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2014/ae_2014.pdf"
+				},
+				{
+					"title": "Aerospace Engineering",
+					"code": "ae",
+					"year": 2015,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2015/ae_2015.pdf"
+				},
+				{
+					"title": "Aerospace Engineering",
+					"code": "ae",
+					"year": 2016,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2016/ae_2016.pdf"
+				},
+				{
+					"title": "Aerospace Engineering",
+					"code": "ae",
+					"year": 2017,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2017/ae_2017.pdf"
+				},
+				{
+					"title": "Aerospace Engineering",
+					"code": "ae",
+					"year": 2018,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2018/ae_2018.pdf"
+				},
+				{
+					"title": "Aerospace Engineering",
+					"code": "ae",
+					"year": 2019,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2019/ae_2019.pdf"
+				},
+				{
+					"title": "Aerospace Engineering",
+					"code": "ae",
+					"year": 2020,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2020/ae_2020.pdf"
+				},
+				{
+					"title": "Aerospace Engineering",
+					"code": "ae",
+					"year": 2021,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2021/ae_2021.pdf"
+				},
+				{
+					"title": "Aerospace Engineering",
+					"code": "ae",
+					"year": 2022,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2022/ae_2022.pdf"
+				}
+			]
+		},
+		{
+			"category_name": "Agricultural Engineering",
+			"category_icon": "ag",
+			"items": [
+				{
+					"title": "Agricultural Engineering",
+					"code": "ag",
+					"year": 2007,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2007/ag_2007.pdf"
+				},
+				{
+					"title": "Agricultural Engineering",
+					"code": "ag",
+					"year": 2008,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2008/ag_2008.pdf"
+				},
+				{
+					"title": "Agricultural Engineering",
+					"code": "ag",
+					"year": 2009,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2009/ag_2009.pdf"
+				},
+				{
+					"title": "Agricultural Engineering",
+					"code": "ag",
+					"year": 2010,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2010/ag_2010.pdf"
+				},
+				{
+					"title": "Agricultural Engineering",
+					"code": "ag",
+					"year": 2011,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2011/ag_2011.pdf"
+				},
+				{
+					"title": "Agricultural Engineering",
+					"code": "ag",
+					"year": 2012,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2012/ag_2012.pdf"
+				},
+				{
+					"title": "Agricultural Engineering",
+					"code": "ag",
+					"year": 2013,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2013/ag_2013.pdf"
+				},
+				{
+					"title": "Agricultural Engineering",
+					"code": "ag",
+					"year": 2014,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2014/ag_2014.pdf"
+				},
+				{
+					"title": "Agricultural Engineering",
+					"code": "ag",
+					"year": 2015,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2015/ag_2015.pdf"
+				},
+				{
+					"title": "Agricultural Engineering",
+					"code": "ag",
+					"year": 2016,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2016/ag_2016.pdf"
+				},
+				{
+					"title": "Agricultural Engineering",
+					"code": "ag",
+					"year": 2017,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2017/ag_2017.pdf"
+				},
+				{
+					"title": "Agricultural Engineering",
+					"code": "ag",
+					"year": 2018,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2018/ag_2018.pdf"
+				},
+				{
+					"title": "Agricultural Engineering",
+					"code": "ag",
+					"year": 2019,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2019/ag_2019.pdf"
+				},
+				{
+					"title": "Agricultural Engineering",
+					"code": "ag",
+					"year": 2020,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2020/ag_2020.pdf"
+				},
+				{
+					"title": "Agricultural Engineering",
+					"code": "ag",
+					"year": 2021,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2021/ag_2021.pdf"
+				},
+				{
+					"title": "Agricultural Engineering",
+					"code": "ag",
+					"year": 2022,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2022/ag_2022.pdf"
+				}
+			]
+		},
+		{
+			"category_name": "Architecture and Planning",
+			"category_icon": "ar",
+			"items": [
+				{
+					"title": "Architecture and Planning",
+					"code": "ar",
+					"year": 2007,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2007/ar_2007.pdf"
+				},
+				{
+					"title": "Architecture and Planning",
+					"code": "ar",
+					"year": 2008,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2008/ar_2008.pdf"
+				},
+				{
+					"title": "Architecture and Planning",
+					"code": "ar",
+					"year": 2009,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2009/ar_2009.pdf"
+				},
+				{
+					"title": "Architecture and Planning",
+					"code": "ar",
+					"year": 2010,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2010/ar_2010.pdf"
+				},
+				{
+					"title": "Architecture and Planning",
+					"code": "ar",
+					"year": 2011,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2011/ar_2011.pdf"
+				},
+				{
+					"title": "Architecture and Planning",
+					"code": "ar",
+					"year": 2012,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2012/ar_2012.pdf"
+				},
+				{
+					"title": "Architecture and Planning",
+					"code": "ar",
+					"year": 2013,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2013/ar_2013.pdf"
+				},
+				{
+					"title": "Architecture and Planning",
+					"code": "ar",
+					"year": 2014,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2014/ar_2014.pdf"
+				},
+				{
+					"title": "Architecture and Planning",
+					"code": "ar",
+					"year": 2015,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2015/ar_2015.pdf"
+				},
+				{
+					"title": "Architecture and Planning",
+					"code": "ar",
+					"year": 2016,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2016/ar_2016.pdf"
+				},
+				{
+					"title": "Architecture and Planning",
+					"code": "ar",
+					"year": 2017,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2017/ar_2017.pdf"
+				},
+				{
+					"title": "Architecture and Planning",
+					"code": "ar",
+					"year": 2018,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2018/ar_2018.pdf"
+				},
+				{
+					"title": "Architecture and Planning",
+					"code": "ar",
+					"year": 2019,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2019/ar_2019.pdf"
+				},
+				{
+					"title": "Architecture and Planning",
+					"code": "ar",
+					"year": 2020,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2020/ar_2020.pdf"
+				},
+				{
+					"title": "Architecture and Planning",
+					"code": "ar",
+					"year": 2021,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2021/ar_2021.pdf"
+				},
+				{
+					"title": "Architecture and Planning",
+					"code": "ar",
+					"year": 2022,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2022/ar_2022.pdf"
+				}
+			]
+		},
+		{
+			"category_name": "Civil Engineering",
+			"category_icon": "ce",
+			"items": [
+				{
+					"title": "Civil Engineering",
+					"code": "ce",
+					"year": 2007,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2007/ce_2007.pdf"
+				},
+				{
+					"title": "Civil Engineering",
+					"code": "ce",
+					"year": 2008,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2008/ce_2008.pdf"
+				},
+				{
+					"title": "Civil Engineering",
+					"code": "ce",
+					"year": 2009,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2009/ce_2009.pdf"
+				},
+				{
+					"title": "Civil Engineering",
+					"code": "ce",
+					"year": 2010,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2010/ce_2010.pdf"
+				},
+				{
+					"title": "Civil Engineering",
+					"code": "ce",
+					"year": 2011,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2011/ce_2011.pdf"
+				},
+				{
+					"title": "Civil Engineering",
+					"code": "ce",
+					"year": 2012,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2012/ce_2012.pdf"
+				},
+				{
+					"title": "Civil Engineering",
+					"code": "ce",
+					"year": 2013,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2013/ce_2013.pdf"
+				},
+				{
+					"title": "Civil Engineering",
+					"code": "ce",
+					"year": 2014,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2014/ce_2014.pdf"
+				},
+				{
+					"title": "Civil Engineering",
+					"code": "ce",
+					"year": 2015,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2015/ce_2015.pdf"
+				},
+				{
+					"title": "Civil Engineering",
+					"code": "ce",
+					"year": 2016,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2016/ce_2016.pdf"
+				},
+				{
+					"title": "Civil Engineering",
+					"code": "ce",
+					"year": 2020,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2020/ce_2020.pdf"
+				}
+			]
+		},
+		{
+			"category_name": "Chemical Engineering",
+			"category_icon": "ch",
+			"items": [
+				{
+					"title": "Chemical Engineering",
+					"code": "ch",
+					"year": 2007,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2007/ch_2007.pdf"
+				},
+				{
+					"title": "Chemical Engineering",
+					"code": "ch",
+					"year": 2008,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2008/ch_2008.pdf"
+				},
+				{
+					"title": "Chemical Engineering",
+					"code": "ch",
+					"year": 2009,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2009/ch_2009.pdf"
+				},
+				{
+					"title": "Chemical Engineering",
+					"code": "ch",
+					"year": 2010,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2010/ch_2010.pdf"
+				},
+				{
+					"title": "Chemical Engineering",
+					"code": "ch",
+					"year": 2011,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2011/ch_2011.pdf"
+				},
+				{
+					"title": "Chemical Engineering",
+					"code": "ch",
+					"year": 2012,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2012/ch_2012.pdf"
+				},
+				{
+					"title": "Chemical Engineering",
+					"code": "ch",
+					"year": 2013,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2013/ch_2013.pdf"
+				},
+				{
+					"title": "Chemical Engineering",
+					"code": "ch",
+					"year": 2014,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2014/ch_2014.pdf"
+				},
+				{
+					"title": "Chemical Engineering",
+					"code": "ch",
+					"year": 2015,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2015/ch_2015.pdf"
+				},
+				{
+					"title": "Chemical Engineering",
+					"code": "ch",
+					"year": 2016,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2016/ch_2016.pdf"
+				},
+				{
+					"title": "Chemical Engineering",
+					"code": "ch",
+					"year": 2017,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2017/ch_2017.pdf"
+				},
+				{
+					"title": "Chemical Engineering",
+					"code": "ch",
+					"year": 2018,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2018/ch_2018.pdf"
+				},
+				{
+					"title": "Chemical Engineering",
+					"code": "ch",
+					"year": 2019,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2019/ch_2019.pdf"
+				},
+				{
+					"title": "Chemical Engineering",
+					"code": "ch",
+					"year": 2020,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2020/ch_2020.pdf"
+				},
+				{
+					"title": "Chemical Engineering",
+					"code": "ch",
+					"year": 2021,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2021/ch_2021.pdf"
+				},
+				{
+					"title": "Chemical Engineering",
+					"code": "ch",
+					"year": 2022,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2022/ch_2022.pdf"
+				}
+			]
+		},
+		{
+			"category_name": "Computer Science and Information Technology",
+			"category_icon": "cs",
+			"items": [
+				{
+					"title": "Computer Science and Information Technology",
+					"code": "cs",
+					"year": 2007,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2007/cs_2007.pdf"
+				},
+				{
+					"title": "Computer Science and Information Technology",
+					"code": "cs",
+					"year": 2008,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2008/cs_2008.pdf"
+				},
+				{
+					"title": "Computer Science and Information Technology",
+					"code": "cs",
+					"year": 2009,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2009/cs_2009.pdf"
+				},
+				{
+					"title": "Computer Science and Information Technology",
+					"code": "cs",
+					"year": 2010,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2010/cs_2010.pdf"
+				},
+				{
+					"title": "Computer Science and Information Technology",
+					"code": "cs",
+					"year": 2011,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2011/cs_2011.pdf"
+				},
+				{
+					"title": "Computer Science and Information Technology",
+					"code": "cs",
+					"year": 2012,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2012/cs_2012.pdf"
+				},
+				{
+					"title": "Computer Science and Information Technology",
+					"code": "cs",
+					"year": 2013,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2013/cs_2013.pdf"
+				},
+				{
+					"title": "Computer Science and Information Technology",
+					"code": "cs",
+					"year": 2014,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2014/cs_2014.pdf"
+				},
+				{
+					"title": "Computer Science and Information Technology",
+					"code": "cs",
+					"year": 2015,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2015/cs_2015.pdf"
+				},
+				{
+					"title": "Computer Science and Information Technology",
+					"code": "cs",
+					"year": 2016,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2016/cs_2016.pdf"
+				},
+				{
+					"title": "Computer Science and Information Technology",
+					"code": "cs",
+					"year": 2018,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2018/cs_2018.pdf"
+				},
+				{
+					"title": "Computer Science and Information Technology",
+					"code": "cs",
+					"year": 2019,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2019/cs_2019.pdf"
+				},
+				{
+					"title": "Computer Science and Information Technology",
+					"code": "cs",
+					"year": 2020,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2020/cs_2020.pdf"
+				},
+				{
+					"title": "Computer Science and Information Technology",
+					"code": "cs",
+					"year": 2022,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2022/cs_2022.pdf"
+				}
+			]
+		},
+		{
+			"category_name": "Chemistry",
+			"category_icon": "cy",
+			"items": [
+				{
+					"title": "Chemistry",
+					"code": "cy",
+					"year": 2007,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2007/cy_2007.pdf"
+				},
+				{
+					"title": "Chemistry",
+					"code": "cy",
+					"year": 2008,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2008/cy_2008.pdf"
+				},
+				{
+					"title": "Chemistry",
+					"code": "cy",
+					"year": 2009,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2009/cy_2009.pdf"
+				},
+				{
+					"title": "Chemistry",
+					"code": "cy",
+					"year": 2010,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2010/cy_2010.pdf"
+				},
+				{
+					"title": "Chemistry",
+					"code": "cy",
+					"year": 2011,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2011/cy_2011.pdf"
+				},
+				{
+					"title": "Chemistry",
+					"code": "cy",
+					"year": 2012,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2012/cy_2012.pdf"
+				},
+				{
+					"title": "Chemistry",
+					"code": "cy",
+					"year": 2013,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2013/cy_2013.pdf"
+				},
+				{
+					"title": "Chemistry",
+					"code": "cy",
+					"year": 2014,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2014/cy_2014.pdf"
+				},
+				{
+					"title": "Chemistry",
+					"code": "cy",
+					"year": 2015,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2015/cy_2015.pdf"
+				},
+				{
+					"title": "Chemistry",
+					"code": "cy",
+					"year": 2016,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2016/cy_2016.pdf"
+				},
+				{
+					"title": "Chemistry",
+					"code": "cy",
+					"year": 2017,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2017/cy_2017.pdf"
+				},
+				{
+					"title": "Chemistry",
+					"code": "cy",
+					"year": 2018,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2018/cy_2018.pdf"
+				},
+				{
+					"title": "Chemistry",
+					"code": "cy",
+					"year": 2019,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2019/cy_2019.pdf"
+				},
+				{
+					"title": "Chemistry",
+					"code": "cy",
+					"year": 2020,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2020/cy_2020.pdf"
+				},
+				{
+					"title": "Chemistry",
+					"code": "cy",
+					"year": 2021,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2021/cy_2021.pdf"
+				},
+				{
+					"title": "Chemistry",
+					"code": "cy",
+					"year": 2022,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2022/cy_2022.pdf"
+				}
+			]
+		},
+		{
+			"category_name": "Electronics and Communication Engineering",
+			"category_icon": "ec",
+			"items": [
+				{
+					"title": "Electronics and Communication Engineering",
+					"code": "ec",
+					"year": 2007,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2007/ec_2007.pdf"
+				},
+				{
+					"title": "Electronics and Communication Engineering",
+					"code": "ec",
+					"year": 2008,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2008/ec_2008.pdf"
+				},
+				{
+					"title": "Electronics and Communication Engineering",
+					"code": "ec",
+					"year": 2009,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2009/ec_2009.pdf"
+				},
+				{
+					"title": "Electronics and Communication Engineering",
+					"code": "ec",
+					"year": 2010,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2010/ec_2010.pdf"
+				},
+				{
+					"title": "Electronics and Communication Engineering",
+					"code": "ec",
+					"year": 2011,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2011/ec_2011.pdf"
+				},
+				{
+					"title": "Electronics and Communication Engineering",
+					"code": "ec",
+					"year": 2012,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2012/ec_2012.pdf"
+				},
+				{
+					"title": "Electronics and Communication Engineering",
+					"code": "ec",
+					"year": 2013,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2013/ec_2013.pdf"
+				},
+				{
+					"title": "Electronics and Communication Engineering",
+					"code": "ec",
+					"year": 2014,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2014/ec_2014.pdf"
+				},
+				{
+					"title": "Electronics and Communication Engineering",
+					"code": "ec",
+					"year": 2015,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2015/ec_2015.pdf"
+				},
+				{
+					"title": "Electronics and Communication Engineering",
+					"code": "ec",
+					"year": 2016,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2016/ec_2016.pdf"
+				},
+				{
+					"title": "Electronics and Communication Engineering",
+					"code": "ec",
+					"year": 2018,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2018/ec_2018.pdf"
+				},
+				{
+					"title": "Electronics and Communication Engineering",
+					"code": "ec",
+					"year": 2019,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2019/ec_2019.pdf"
+				},
+				{
+					"title": "Electronics and Communication Engineering",
+					"code": "ec",
+					"year": 2020,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2020/ec_2020.pdf"
+				},
+				{
+					"title": "Electronics and Communication Engineering",
+					"code": "ec",
+					"year": 2021,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2021/ec_2021.pdf"
+				},
+				{
+					"title": "Electronics and Communication Engineering",
+					"code": "ec",
+					"year": 2022,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2022/ec_2022.pdf"
+				}
+			]
+		},
+		{
+			"category_name": "Electrical Engineering",
+			"category_icon": "ee",
+			"items": [
+				{
+					"title": "Electrical Engineering",
+					"code": "ee",
+					"year": 2007,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2007/ee_2007.pdf"
+				},
+				{
+					"title": "Electrical Engineering",
+					"code": "ee",
+					"year": 2008,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2008/ee_2008.pdf"
+				},
+				{
+					"title": "Electrical Engineering",
+					"code": "ee",
+					"year": 2009,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2009/ee_2009.pdf"
+				},
+				{
+					"title": "Electrical Engineering",
+					"code": "ee",
+					"year": 2010,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2010/ee_2010.pdf"
+				},
+				{
+					"title": "Electrical Engineering",
+					"code": "ee",
+					"year": 2011,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2011/ee_2011.pdf"
+				},
+				{
+					"title": "Electrical Engineering",
+					"code": "ee",
+					"year": 2012,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2012/ee_2012.pdf"
+				},
+				{
+					"title": "Electrical Engineering",
+					"code": "ee",
+					"year": 2013,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2013/ee_2013.pdf"
+				},
+				{
+					"title": "Electrical Engineering",
+					"code": "ee",
+					"year": 2014,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2014/ee_2014.pdf"
+				},
+				{
+					"title": "Electrical Engineering",
+					"code": "ee",
+					"year": 2015,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2015/ee_2015.pdf"
+				},
+				{
+					"title": "Electrical Engineering",
+					"code": "ee",
+					"year": 2016,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2016/ee_2016.pdf"
+				},
+				{
+					"title": "Electrical Engineering",
+					"code": "ee",
+					"year": 2018,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2018/ee_2018.pdf"
+				},
+				{
+					"title": "Electrical Engineering",
+					"code": "ee",
+					"year": 2019,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2019/ee_2019.pdf"
+				},
+				{
+					"title": "Electrical Engineering",
+					"code": "ee",
+					"year": 2020,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2020/ee_2020.pdf"
+				},
+				{
+					"title": "Electrical Engineering",
+					"code": "ee",
+					"year": 2021,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2021/ee_2021.pdf"
+				},
+				{
+					"title": "Electrical Engineering",
+					"code": "ee",
+					"year": 2022,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2022/ee_2022.pdf"
+				}
+			]
+		},
+		{
+			"category_name": "Geology and Geophysics",
+			"category_icon": "gg",
+			"items": [
+				{
+					"title": "Geology and Geophysics",
+					"code": "gg",
+					"year": 2007,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2007/gg_2007.pdf"
+				},
+				{
+					"title": "Geology and Geophysics",
+					"code": "gg",
+					"year": 2008,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2008/gg_2008.pdf"
+				},
+				{
+					"title": "Geology and Geophysics",
+					"code": "gg",
+					"year": 2009,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2009/gg_2009.pdf"
+				},
+				{
+					"title": "Geology and Geophysics",
+					"code": "gg",
+					"year": 2010,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2010/gg_2010.pdf"
+				},
+				{
+					"title": "Geology and Geophysics",
+					"code": "gg",
+					"year": 2011,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2011/gg_2011.pdf"
+				},
+				{
+					"title": "Geology and Geophysics",
+					"code": "gg",
+					"year": 2012,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2012/gg_2012.pdf"
+				},
+				{
+					"title": "Geology and Geophysics",
+					"code": "gg",
+					"year": 2013,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2013/gg_2013.pdf"
+				},
+				{
+					"title": "Geology and Geophysics",
+					"code": "gg",
+					"year": 2014,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2014/gg_2014.pdf"
+				},
+				{
+					"title": "Geology and Geophysics",
+					"code": "gg",
+					"year": 2015,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2015/gg_2015.pdf"
+				},
+				{
+					"title": "Geology and Geophysics",
+					"code": "gg",
+					"year": 2016,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2016/gg_2016.pdf"
+				},
+				{
+					"title": "Geology and Geophysics",
+					"code": "gg",
+					"year": 2017,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2017/gg_2017.pdf"
+				},
+				{
+					"title": "Geology and Geophysics",
+					"code": "gg",
+					"year": 2018,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2018/gg_2018.pdf"
+				},
+				{
+					"title": "Geology and Geophysics",
+					"code": "gg",
+					"year": 2019,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2019/gg_2019.pdf"
+				},
+				{
+					"title": "Geology and Geophysics",
+					"code": "gg",
+					"year": 2020,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2020/gg_2020.pdf"
+				}
+			]
+		},
+		{
+			"category_name": "Instrumentation Engineering",
+			"category_icon": "in",
+			"items": [
+				{
+					"title": "Instrumentation Engineering",
+					"code": "in",
+					"year": 2007,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2007/in_2007.pdf"
+				},
+				{
+					"title": "Instrumentation Engineering",
+					"code": "in",
+					"year": 2008,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2008/in_2008.pdf"
+				},
+				{
+					"title": "Instrumentation Engineering",
+					"code": "in",
+					"year": 2009,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2009/in_2009.pdf"
+				},
+				{
+					"title": "Instrumentation Engineering",
+					"code": "in",
+					"year": 2010,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2010/in_2010.pdf"
+				},
+				{
+					"title": "Instrumentation Engineering",
+					"code": "in",
+					"year": 2011,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2011/in_2011.pdf"
+				},
+				{
+					"title": "Instrumentation Engineering",
+					"code": "in",
+					"year": 2012,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2012/in_2012.pdf"
+				},
+				{
+					"title": "Instrumentation Engineering",
+					"code": "in",
+					"year": 2013,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2013/in_2013.pdf"
+				},
+				{
+					"title": "Instrumentation Engineering",
+					"code": "in",
+					"year": 2014,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2014/in_2014.pdf"
+				},
+				{
+					"title": "Instrumentation Engineering",
+					"code": "in",
+					"year": 2015,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2015/in_2015.pdf"
+				},
+				{
+					"title": "Instrumentation Engineering",
+					"code": "in",
+					"year": 2016,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2016/in_2016.pdf"
+				},
+				{
+					"title": "Instrumentation Engineering",
+					"code": "in",
+					"year": 2017,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2017/in_2017.pdf"
+				},
+				{
+					"title": "Instrumentation Engineering",
+					"code": "in",
+					"year": 2018,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2018/in_2018.pdf"
+				},
+				{
+					"title": "Instrumentation Engineering",
+					"code": "in",
+					"year": 2019,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2019/in_2019.pdf"
+				},
+				{
+					"title": "Instrumentation Engineering",
+					"code": "in",
+					"year": 2020,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2020/in_2020.pdf"
+				},
+				{
+					"title": "Instrumentation Engineering",
+					"code": "in",
+					"year": 2021,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2021/in_2021.pdf"
+				},
+				{
+					"title": "Instrumentation Engineering",
+					"code": "in",
+					"year": 2022,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2022/in_2022.pdf"
+				}
+			]
+		},
+		{
+			"category_name": "Mathematics",
+			"category_icon": "ma",
+			"items": [
+				{
+					"title": "Mathematics",
+					"code": "ma",
+					"year": 2007,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2007/ma_2007.pdf"
+				},
+				{
+					"title": "Mathematics",
+					"code": "ma",
+					"year": 2008,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2008/ma_2008.pdf"
+				},
+				{
+					"title": "Mathematics",
+					"code": "ma",
+					"year": 2009,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2009/ma_2009.pdf"
+				},
+				{
+					"title": "Mathematics",
+					"code": "ma",
+					"year": 2010,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2010/ma_2010.pdf"
+				},
+				{
+					"title": "Mathematics",
+					"code": "ma",
+					"year": 2011,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2011/ma_2011.pdf"
+				},
+				{
+					"title": "Mathematics",
+					"code": "ma",
+					"year": 2012,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2012/ma_2012.pdf"
+				},
+				{
+					"title": "Mathematics",
+					"code": "ma",
+					"year": 2013,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2013/ma_2013.pdf"
+				},
+				{
+					"title": "Mathematics",
+					"code": "ma",
+					"year": 2014,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2014/ma_2014.pdf"
+				},
+				{
+					"title": "Mathematics",
+					"code": "ma",
+					"year": 2015,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2015/ma_2015.pdf"
+				},
+				{
+					"title": "Mathematics",
+					"code": "ma",
+					"year": 2016,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2016/ma_2016.pdf"
+				},
+				{
+					"title": "Mathematics",
+					"code": "ma",
+					"year": 2017,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2017/ma_2017.pdf"
+				},
+				{
+					"title": "Mathematics",
+					"code": "ma",
+					"year": 2018,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2018/ma_2018.pdf"
+				},
+				{
+					"title": "Mathematics",
+					"code": "ma",
+					"year": 2019,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2019/ma_2019.pdf"
+				},
+				{
+					"title": "Mathematics",
+					"code": "ma",
+					"year": 2020,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2020/ma_2020.pdf"
+				},
+				{
+					"title": "Mathematics",
+					"code": "ma",
+					"year": 2021,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2021/ma_2021.pdf"
+				},
+				{
+					"title": "Mathematics",
+					"code": "ma",
+					"year": 2022,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2022/ma_2022.pdf"
+				}
+			]
+		},
+		{
+			"category_name": "Mechanical Engineering",
+			"category_icon": "me",
+			"items": [
+				{
+					"title": "Mechanical Engineering",
+					"code": "me",
+					"year": 2007,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2007/me_2007.pdf"
+				},
+				{
+					"title": "Mechanical Engineering",
+					"code": "me",
+					"year": 2008,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2008/me_2008.pdf"
+				},
+				{
+					"title": "Mechanical Engineering",
+					"code": "me",
+					"year": 2009,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2009/me_2009.pdf"
+				},
+				{
+					"title": "Mechanical Engineering",
+					"code": "me",
+					"year": 2010,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2010/me_2010.pdf"
+				},
+				{
+					"title": "Mechanical Engineering",
+					"code": "me",
+					"year": 2011,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2011/me_2011.pdf"
+				},
+				{
+					"title": "Mechanical Engineering",
+					"code": "me",
+					"year": 2012,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2012/me_2012.pdf"
+				},
+				{
+					"title": "Mechanical Engineering",
+					"code": "me",
+					"year": 2013,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2013/me_2013.pdf"
+				},
+				{
+					"title": "Mechanical Engineering",
+					"code": "me",
+					"year": 2014,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2014/me_2014.pdf"
+				},
+				{
+					"title": "Mechanical Engineering",
+					"code": "me",
+					"year": 2015,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2015/me_2015.pdf"
+				},
+				{
+					"title": "Mechanical Engineering",
+					"code": "me",
+					"year": 2016,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2016/me_2016.pdf"
+				},
+				{
+					"title": "Mechanical Engineering",
+					"code": "me",
+					"year": 2020,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2020/me_2020.pdf"
+				}
+			]
+		},
+		{
+			"category_name": "Mining Engineering",
+			"category_icon": "mn",
+			"items": [
+				{
+					"title": "Mining Engineering",
+					"code": "mn",
+					"year": 2007,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2007/mn_2007.pdf"
+				},
+				{
+					"title": "Mining Engineering",
+					"code": "mn",
+					"year": 2008,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2008/mn_2008.pdf"
+				},
+				{
+					"title": "Mining Engineering",
+					"code": "mn",
+					"year": 2009,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2009/mn_2009.pdf"
+				},
+				{
+					"title": "Mining Engineering",
+					"code": "mn",
+					"year": 2010,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2010/mn_2010.pdf"
+				},
+				{
+					"title": "Mining Engineering",
+					"code": "mn",
+					"year": 2011,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2011/mn_2011.pdf"
+				},
+				{
+					"title": "Mining Engineering",
+					"code": "mn",
+					"year": 2012,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2012/mn_2012.pdf"
+				},
+				{
+					"title": "Mining Engineering",
+					"code": "mn",
+					"year": 2013,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2013/mn_2013.pdf"
+				},
+				{
+					"title": "Mining Engineering",
+					"code": "mn",
+					"year": 2014,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2014/mn_2014.pdf"
+				},
+				{
+					"title": "Mining Engineering",
+					"code": "mn",
+					"year": 2015,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2015/mn_2015.pdf"
+				},
+				{
+					"title": "Mining Engineering",
+					"code": "mn",
+					"year": 2016,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2016/mn_2016.pdf"
+				},
+				{
+					"title": "Mining Engineering",
+					"code": "mn",
+					"year": 2017,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2017/mn_2017.pdf"
+				},
+				{
+					"title": "Mining Engineering",
+					"code": "mn",
+					"year": 2018,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2018/mn_2018.pdf"
+				},
+				{
+					"title": "Mining Engineering",
+					"code": "mn",
+					"year": 2019,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2019/mn_2019.pdf"
+				},
+				{
+					"title": "Mining Engineering",
+					"code": "mn",
+					"year": 2020,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2020/mn_2020.pdf"
+				},
+				{
+					"title": "Mining Engineering",
+					"code": "mn",
+					"year": 2021,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2021/mn_2021.pdf"
+				},
+				{
+					"title": "Mining Engineering",
+					"code": "mn",
+					"year": 2022,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2022/mn_2022.pdf"
+				}
+			]
+		},
+		{
+			"category_name": "Metallurgical Engineering",
+			"category_icon": "mt",
+			"items": [
+				{
+					"title": "Metallurgical Engineering",
+					"code": "mt",
+					"year": 2007,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2007/mt_2007.pdf"
+				},
+				{
+					"title": "Metallurgical Engineering",
+					"code": "mt",
+					"year": 2008,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2008/mt_2008.pdf"
+				},
+				{
+					"title": "Metallurgical Engineering",
+					"code": "mt",
+					"year": 2009,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2009/mt_2009.pdf"
+				},
+				{
+					"title": "Metallurgical Engineering",
+					"code": "mt",
+					"year": 2010,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2010/mt_2010.pdf"
+				},
+				{
+					"title": "Metallurgical Engineering",
+					"code": "mt",
+					"year": 2011,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2011/mt_2011.pdf"
+				},
+				{
+					"title": "Metallurgical Engineering",
+					"code": "mt",
+					"year": 2012,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2012/mt_2012.pdf"
+				},
+				{
+					"title": "Metallurgical Engineering",
+					"code": "mt",
+					"year": 2013,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2013/mt_2013.pdf"
+				},
+				{
+					"title": "Metallurgical Engineering",
+					"code": "mt",
+					"year": 2014,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2014/mt_2014.pdf"
+				},
+				{
+					"title": "Metallurgical Engineering",
+					"code": "mt",
+					"year": 2015,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2015/mt_2015.pdf"
+				},
+				{
+					"title": "Metallurgical Engineering",
+					"code": "mt",
+					"year": 2016,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2016/mt_2016.pdf"
+				},
+				{
+					"title": "Metallurgical Engineering",
+					"code": "mt",
+					"year": 2017,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2017/mt_2017.pdf"
+				},
+				{
+					"title": "Metallurgical Engineering",
+					"code": "mt",
+					"year": 2018,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2018/mt_2018.pdf"
+				},
+				{
+					"title": "Metallurgical Engineering",
+					"code": "mt",
+					"year": 2019,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2019/mt_2019.pdf"
+				},
+				{
+					"title": "Metallurgical Engineering",
+					"code": "mt",
+					"year": 2020,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2020/mt_2020.pdf"
+				},
+				{
+					"title": "Metallurgical Engineering",
+					"code": "mt",
+					"year": 2021,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2021/mt_2021.pdf"
+				},
+				{
+					"title": "Metallurgical Engineering",
+					"code": "mt",
+					"year": 2022,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2022/mt_2022.pdf"
+				}
+			]
+		},
+		{
+			"category_name": "Physics",
+			"category_icon": "ph",
+			"items": [
+				{
+					"title": "Physics",
+					"code": "ph",
+					"year": 2007,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2007/ph_2007.pdf"
+				},
+				{
+					"title": "Physics",
+					"code": "ph",
+					"year": 2008,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2008/ph_2008.pdf"
+				},
+				{
+					"title": "Physics",
+					"code": "ph",
+					"year": 2009,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2009/ph_2009.pdf"
+				},
+				{
+					"title": "Physics",
+					"code": "ph",
+					"year": 2010,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2010/ph_2010.pdf"
+				},
+				{
+					"title": "Physics",
+					"code": "ph",
+					"year": 2011,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2011/ph_2011.pdf"
+				},
+				{
+					"title": "Physics",
+					"code": "ph",
+					"year": 2012,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2012/ph_2012.pdf"
+				},
+				{
+					"title": "Physics",
+					"code": "ph",
+					"year": 2013,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2013/ph_2013.pdf"
+				},
+				{
+					"title": "Physics",
+					"code": "ph",
+					"year": 2014,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2014/ph_2014.pdf"
+				},
+				{
+					"title": "Physics",
+					"code": "ph",
+					"year": 2015,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2015/ph_2015.pdf"
+				},
+				{
+					"title": "Physics",
+					"code": "ph",
+					"year": 2016,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2016/ph_2016.pdf"
+				},
+				{
+					"title": "Physics",
+					"code": "ph",
+					"year": 2017,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2017/ph_2017.pdf"
+				},
+				{
+					"title": "Physics",
+					"code": "ph",
+					"year": 2018,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2018/ph_2018.pdf"
+				},
+				{
+					"title": "Physics",
+					"code": "ph",
+					"year": 2019,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2019/ph_2019.pdf"
+				},
+				{
+					"title": "Physics",
+					"code": "ph",
+					"year": 2020,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2020/ph_2020.pdf"
+				},
+				{
+					"title": "Physics",
+					"code": "ph",
+					"year": 2021,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2021/ph_2021.pdf"
+				},
+				{
+					"title": "Physics",
+					"code": "ph",
+					"year": 2022,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2022/ph_2022.pdf"
+				}
+			]
+		},
+		{
+			"category_name": "Production and Industrial Engineering",
+			"category_icon": "pi",
+			"items": [
+				{
+					"title": "Production and Industrial Engineering",
+					"code": "pi",
+					"year": 2007,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2007/pi_2007.pdf"
+				},
+				{
+					"title": "Production and Industrial Engineering",
+					"code": "pi",
+					"year": 2008,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2008/pi_2008.pdf"
+				},
+				{
+					"title": "Production and Industrial Engineering",
+					"code": "pi",
+					"year": 2009,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2009/pi_2009.pdf"
+				},
+				{
+					"title": "Production and Industrial Engineering",
+					"code": "pi",
+					"year": 2010,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2010/pi_2010.pdf"
+				},
+				{
+					"title": "Production and Industrial Engineering",
+					"code": "pi",
+					"year": 2011,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2011/pi_2011.pdf"
+				},
+				{
+					"title": "Production and Industrial Engineering",
+					"code": "pi",
+					"year": 2012,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2012/pi_2012.pdf"
+				},
+				{
+					"title": "Production and Industrial Engineering",
+					"code": "pi",
+					"year": 2013,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2013/pi_2013.pdf"
+				},
+				{
+					"title": "Production and Industrial Engineering",
+					"code": "pi",
+					"year": 2014,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2014/pi_2014.pdf"
+				},
+				{
+					"title": "Production and Industrial Engineering",
+					"code": "pi",
+					"year": 2015,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2015/pi_2015.pdf"
+				},
+				{
+					"title": "Production and Industrial Engineering",
+					"code": "pi",
+					"year": 2016,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2016/pi_2016.pdf"
+				},
+				{
+					"title": "Production and Industrial Engineering",
+					"code": "pi",
+					"year": 2017,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2017/pi_2017.pdf"
+				},
+				{
+					"title": "Production and Industrial Engineering",
+					"code": "pi",
+					"year": 2018,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2018/pi_2018.pdf"
+				},
+				{
+					"title": "Production and Industrial Engineering",
+					"code": "pi",
+					"year": 2019,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2019/pi_2019.pdf"
+				},
+				{
+					"title": "Production and Industrial Engineering",
+					"code": "pi",
+					"year": 2020,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2020/pi_2020.pdf"
+				},
+				{
+					"title": "Production and Industrial Engineering",
+					"code": "pi",
+					"year": 2021,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2021/pi_2021.pdf"
+				},
+				{
+					"title": "Production and Industrial Engineering",
+					"code": "pi",
+					"year": 2022,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2022/pi_2022.pdf"
+				}
+			]
+		},
+		{
+			"category_name": "Textile Engineering and Fibre Science",
+			"category_icon": "tf",
+			"items": [
+				{
+					"title": "Textile Engineering and Fibre Science",
+					"code": "tf",
+					"year": 2007,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2007/tf_2007.pdf"
+				},
+				{
+					"title": "Textile Engineering and Fibre Science",
+					"code": "tf",
+					"year": 2008,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2008/tf_2008.pdf"
+				},
+				{
+					"title": "Textile Engineering and Fibre Science",
+					"code": "tf",
+					"year": 2009,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2009/tf_2009.pdf"
+				},
+				{
+					"title": "Textile Engineering and Fibre Science",
+					"code": "tf",
+					"year": 2010,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2010/tf_2010.pdf"
+				},
+				{
+					"title": "Textile Engineering and Fibre Science",
+					"code": "tf",
+					"year": 2011,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2011/tf_2011.pdf"
+				},
+				{
+					"title": "Textile Engineering and Fibre Science",
+					"code": "tf",
+					"year": 2012,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2012/tf_2012.pdf"
+				},
+				{
+					"title": "Textile Engineering and Fibre Science",
+					"code": "tf",
+					"year": 2013,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2013/tf_2013.pdf"
+				},
+				{
+					"title": "Textile Engineering and Fibre Science",
+					"code": "tf",
+					"year": 2014,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2014/tf_2014.pdf"
+				},
+				{
+					"title": "Textile Engineering and Fibre Science",
+					"code": "tf",
+					"year": 2015,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2015/tf_2015.pdf"
+				},
+				{
+					"title": "Textile Engineering and Fibre Science",
+					"code": "tf",
+					"year": 2016,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2016/tf_2016.pdf"
+				},
+				{
+					"title": "Textile Engineering and Fibre Science",
+					"code": "tf",
+					"year": 2017,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2017/tf_2017.pdf"
+				},
+				{
+					"title": "Textile Engineering and Fibre Science",
+					"code": "tf",
+					"year": 2018,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2018/tf_2018.pdf"
+				},
+				{
+					"title": "Textile Engineering and Fibre Science",
+					"code": "tf",
+					"year": 2019,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2019/tf_2019.pdf"
+				},
+				{
+					"title": "Textile Engineering and Fibre Science",
+					"code": "tf",
+					"year": 2020,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2020/tf_2020.pdf"
+				},
+				{
+					"title": "Textile Engineering and Fibre Science",
+					"code": "tf",
+					"year": 2021,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2021/tf_2021.pdf"
+				},
+				{
+					"title": "Textile Engineering and Fibre Science",
+					"code": "tf",
+					"year": 2022,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2022/tf_2022.pdf"
+				}
+			]
+		},
+		{
+			"category_name": "Engineering Sciences",
+			"category_icon": "xe",
+			"items": [
+				{
+					"title": "Engineering Sciences",
+					"code": "xe",
+					"year": 2007,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2007/xe_2007.pdf"
+				},
+				{
+					"title": "Engineering Sciences",
+					"code": "xe",
+					"year": 2008,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2008/xe_2008.pdf"
+				},
+				{
+					"title": "Engineering Sciences",
+					"code": "xe",
+					"year": 2009,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2009/xe_2009.pdf"
+				},
+				{
+					"title": "Engineering Sciences",
+					"code": "xe",
+					"year": 2010,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2010/xe_2010.pdf"
+				},
+				{
+					"title": "Engineering Sciences",
+					"code": "xe",
+					"year": 2011,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2011/xe_2011.pdf"
+				},
+				{
+					"title": "Engineering Sciences",
+					"code": "xe",
+					"year": 2012,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2012/xe_2012.pdf"
+				},
+				{
+					"title": "Engineering Sciences",
+					"code": "xe",
+					"year": 2013,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2013/xe_2013.pdf"
+				},
+				{
+					"title": "Engineering Sciences",
+					"code": "xe",
+					"year": 2014,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2014/xe_2014.pdf"
+				},
+				{
+					"title": "Engineering Sciences",
+					"code": "xe",
+					"year": 2015,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2015/xe_2015.pdf"
+				},
+				{
+					"title": "Engineering Sciences",
+					"code": "xe",
+					"year": 2016,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2016/xe_2016.pdf"
+				},
+				{
+					"title": "Engineering Sciences",
+					"code": "xe",
+					"year": 2017,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2017/xe_2017.pdf"
+				},
+				{
+					"title": "Engineering Sciences",
+					"code": "xe",
+					"year": 2018,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2018/xe_2018.pdf"
+				},
+				{
+					"title": "Engineering Sciences",
+					"code": "xe",
+					"year": 2019,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2019/xe_2019.pdf"
+				},
+				{
+					"title": "Engineering Sciences",
+					"code": "xe",
+					"year": 2020,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2020/xe_2020.pdf"
+				},
+				{
+					"title": "Engineering Sciences",
+					"code": "xe",
+					"year": 2021,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2021/xe_2021.pdf"
+				},
+				{
+					"title": "Engineering Sciences",
+					"code": "xe",
+					"year": 2022,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2022/xe_2022.pdf"
+				}
+			]
+		},
+		{
+			"category_name": "Life Sciences",
+			"category_icon": "xl",
+			"items": [
+				{
+					"title": "Life Sciences",
+					"code": "xl",
+					"year": 2007,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2007/xl_2007.pdf"
+				},
+				{
+					"title": "Life Sciences",
+					"code": "xl",
+					"year": 2008,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2008/xl_2008.pdf"
+				},
+				{
+					"title": "Life Sciences",
+					"code": "xl",
+					"year": 2009,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2009/xl_2009.pdf"
+				},
+				{
+					"title": "Life Sciences",
+					"code": "xl",
+					"year": 2010,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2010/xl_2010.pdf"
+				},
+				{
+					"title": "Life Sciences",
+					"code": "xl",
+					"year": 2011,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2011/xl_2011.pdf"
+				},
+				{
+					"title": "Life Sciences",
+					"code": "xl",
+					"year": 2012,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2012/xl_2012.pdf"
+				},
+				{
+					"title": "Life Sciences",
+					"code": "xl",
+					"year": 2013,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2013/xl_2013.pdf"
+				},
+				{
+					"title": "Life Sciences",
+					"code": "xl",
+					"year": 2014,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2014/xl_2014.pdf"
+				},
+				{
+					"title": "Life Sciences",
+					"code": "xl",
+					"year": 2015,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2015/xl_2015.pdf"
+				},
+				{
+					"title": "Life Sciences",
+					"code": "xl",
+					"year": 2016,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2016/xl_2016.pdf"
+				},
+				{
+					"title": "Life Sciences",
+					"code": "xl",
+					"year": 2017,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2017/xl_2017.pdf"
+				},
+				{
+					"title": "Life Sciences",
+					"code": "xl",
+					"year": 2018,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2018/xl_2018.pdf"
+				},
+				{
+					"title": "Life Sciences",
+					"code": "xl",
+					"year": 2019,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2019/xl_2019.pdf"
+				},
+				{
+					"title": "Life Sciences",
+					"code": "xl",
+					"year": 2020,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2020/xl_2020.pdf"
+				},
+				{
+					"title": "Life Sciences",
+					"code": "xl",
+					"year": 2021,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2021/xl_2021.pdf"
+				},
+				{
+					"title": "Life Sciences",
+					"code": "xl",
+					"year": 2022,
+					"url": "https://gate.iitkgp.ac.in/documents/gatepapers/2022/xl_2022.pdf"
+				}
+			]
+		}
+	]
+}
