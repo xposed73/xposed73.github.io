@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="./assets/friendgeo.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Questionset 1</title>
+  <link rel="stylesheet" href="https://xposed73.github.io/cdn/custom.css" />
+  <script defer src="https://unpkg.com/alpinejs@3.9.5/dist/cdn.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/lodash@4/lodash.min.js"></script>
+  <script type="text/javascript">
+    const opts = ["A", "B", "C", "D"];
+
+    class QuesStats {
+      constructor() {
+        this.questions = [];
+        this._correct = 0;
+        this._incorrect = 0;
+        this.answeredQuestions = new Set();
+      }
+
+      get answered() {
+        return this.answeredQuestions.size;
+      }
+
+      get notAnswered() {
+        return this.questions.length - this.answeredQuestions.size;
+      }
+
+      get correct() {
+        return this._correct;
+      }
+
+      get incorrect() {
+        return this._incorrect;
+      }
+
+      answer(id) {
+        const [_, _ques, _ans] = id.split("-");
+        if (this.answeredQuestions.has(_ques)) {
+          return;
+        }
+        const ques = this.questions[parseInt(_ques) - 1];
+        const quesElement = document.getElementById(`q-${_ques}`);
+        const el = document.getElementById(id).getElementsByTagName("span")[0];
+        const selectedAnswer = opts.indexOf(_ans) + 1;
+        const rightAnswer = ques.answer;
+
+        if (selectedAnswer === rightAnswer) {
+          el.classList.add("correct");
+          this._correct += 1;
+        } else {
+          document
+            .getElementById(id.replace(_ans, opts[rightAnswer - 1]))
+            .getElementsByTagName("span")[0]
+            .classList.add("correct");
+          el.classList.add("incorrect");
+          this._incorrect += 1;
+        }
+
+        if (ques.desc) {
+          quesElement.innerHTML =
+            quesElement.innerHTML +
+            `<div x-data="{ open: false }" class="desc">
+            <div class="flex flex-row justify-between cursor-pointer items-center" @click="open = ! open">
+            <button>Description</button>
+            <button class="mb-1"><i class="arrow down"></i></button>
+            </div>
+            <div x-show="open" x-transition class="descc xd-prose">${ques.desc}</div>
+            </div>`;
+        }
+
+        this.answeredQuestions.add(_ques);
+        this.loadPreview();
+      }
+
+      statsPreview() {
+        return `<span class="bg-sky-500 chip"><span class="chip-text">Total</span><span class="chip-num">${this.questions.length}</span></span>
+        <span class="bg-green-500 chip"><span class="chip-text">Correct</span><span class="chip-num">${this.correct}</span></span>
+        <span class="bg-rose-500 chip"><span class="chip-text">Incorrect</span><span class="chip-num">${this.incorrect}</span></span>
+        <span class="bg-slate-500 chip"><span class="chip-text">Not answered</span><span class="chip-num">${this.notAnswered}</span></span>`;
+      }
+
+      loadPreview() {
+        document.getElementById("stats").innerHTML = this.statsPreview();
+      }
+
+      loadQuestions(getFromEach = 10, shuffle = true) {
+        // Internal JSON data
+        const internalData = {
+          "q": [
+            {
+              "question": "What is the capital of India?",
+              "options": ["Delhi", "Mumbai", "Kolkata", "Chennai"],
+              "answer": 1,
+              "desc": "New Delhi is the capital of India."
+            },
+            // Add more questions as needed
+          ]
+        };
+
+        if (shuffle) {
+          this.questions = _.sampleSize(internalData.q, getFromEach);
+        } else {
+          this.questions = internalData.q;
+        }
+
+        const ques = this.questions.map((q, i) => {
+          const question = `<div class="box-1"><div class="question">Q${i + 1}. ${
+            q.question
+          }</div></div>`;
+          const options = q.options.map((option, _i) => {
+            const id = "opt-" + (i + 1) + "-" + opts[_i];
+            return `<div class="option" id="${id}" onclick="xd.answer('${id}')"><span class="option-prefix">${opts[_i]}</span><span>${option}</span></div>`;
+          });
+          return (
+            `<section class="q-section" id="q-${i + 1}">` +
+            question +
+            options.join("\n") +
+            `</section>`
+          );
+        });
+        document.getElementById("questions").innerHTML = ques.join("\n");
+      }
+    }
+
+    const xd = new QuesStats();
+
+    window.addEventListener("load", () => {
+      xd.loadQuestions(35, false);
+      xd.loadPreview();
+    });
+  </script>
+</head>
+<body>
+  <div class="max-w-screen-md md:mx-auto">
+    <div id="stats" class="chips"></div>
+    <div id="questions"></div>
+  </div>
+</body>
+</html>
