@@ -1,0 +1,92 @@
+[
+  {
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mutation-dynamics.appspot.com/o/radio_kashmir%2Fair_srinagar.png?alt=media&token=37392202-6415-476a-8bac-f53edbcc0213",
+    "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio136/chunklist.m3u8",
+    "title": "AIR Srinagar"
+  },
+  {
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mutation-dynamics.appspot.com/o/radio_kashmir%2Fair_kathua.png?alt=media&token=e94b79f4-d438-4e7e-9964-f6a13b4f3550",
+    "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio190/chunklist.m3u8",
+    "title": "AIR Kathua"
+  },
+  {
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mutation-dynamics.appspot.com/o/radio_kashmir%2Fair_jammu.png?alt=media&token=9c1771c6-ac8c-4a1e-9e97-72f35766fac3",
+    "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio128/chunklist.m3u8",
+    "title": "AIR Jammu"
+  },
+  {
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mutation-dynamics.appspot.com/o/radio_kashmir%2Fair_leh.png?alt=media&token=3a44c58f-94cf-40fb-abbe-ef79b586e5ec",
+    "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio223/playlist.m3u8",
+    "title": "AIR Leh"
+  },
+  {
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mutation-dynamics.appspot.com/o/radio_kashmir%2Fair_kargil.png?alt=media&token=9a9fbfe0-34d2-47b0-b1d5-6d55aa6ea10c",
+    "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio066/chunklist.m3u8",
+    "title": "AIR Kargil"
+  },
+  {
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mutation-dynamics.appspot.com/o/radio_kashmir%2Fair_fm_rainbow.png?alt=media&token=ba3dd66c-cd10-4556-bd38-e9a3e91c7875",
+    "streamUrl": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8",
+    "title": "AIR FM Rainbow"
+  },
+  {
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mutation-dynamics.appspot.com/o/radio_kashmir%2Fnasheed_live.png?alt=media&token=855daa79-3366-452d-b2e9-b520a8908d13",
+    "streamUrl": "http://node-03.zeno.fm/yqw9ut1d1mruv.aac",
+    "title": "Nasheed Live"
+  },
+  {
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mutation-dynamics.appspot.com/o/radio_kashmir%2Fdc_naat_radio.png?alt=media&token=f45c45b9-ff56-4b18-a782-c604581c3823",
+    "streamUrl": "http://s33.myradiostream.com:13872/;",
+    "title": "DC Naat Radio"
+  },
+  {
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mutation-dynamics.appspot.com/o/radio_kashmir%2Fnaat_radio.png?alt=media&token=7179d5bb-3497-4edc-94f3-86eec21292c9",
+    "streamUrl": "http://philae.shoutca.st:8640/naat",
+    "title": "Naat Internet Radio"
+  },
+  {
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mutation-dynamics.appspot.com/o/radio_kashmir%2Fquran_kashmiri.png?alt=media&token=db6a1757-9aa8-405d-ad65-627223948c7e",
+    "streamUrl": "http://107.181.172.146:9974",
+    "title": "Quran Kashmiri"
+  },
+  {
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mutation-dynamics.appspot.com/o/radio_kashmir%2Fquran_urdu.png?alt=media&token=877a6fda-5419-4bf0-924f-a6cf2fbf47ef",
+    "streamUrl": "http://philae.shoutca.st:8222/Quran",
+    "title": "Quran Urdu Translation"
+  },
+  {
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mutation-dynamics.appspot.com/o/radio_kashmir%2Fbbc_urdu.png?alt=media&token=226b0a1b-33a9-4119-b06f-f796816c580f",
+    "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_urdu_radio",
+    "title": "BBC Urdu"
+  },
+  {
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mutation-dynamics.appspot.com/o/radio_kashmir%2Fbbc_hindi.png?alt=media&token=2ce42423-d399-4aaf-a778-48bfd1bb340f",
+    "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_hindi_radio",
+    "title": "BBC Hindi"
+  },
+  {
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mutation-dynamics.appspot.com/o/radio_kashmir%2Fbbc_world.png?alt=media&token=3b598399-229e-4363-afff-6ad251a3476c",
+    "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+    "title": "BBC World Service"
+  },
+  {
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mutation-dynamics.appspot.com/o/radio_kashmir%2Fkashmir_online_radio.png?alt=media&token=a52fe1f0-a708-4f9a-89be-b0c717c2a53b",
+    "streamUrl": "http://148.251.92.113:8368",
+    "title": "Kashmir Online Radio"
+  },
+  {
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mutation-dynamics.appspot.com/o/radio_jammu%2Fradio_city_hindi.png?alt=media&token=3f9a0869-4176-4372-a1af-65c395d67c50",
+    "streamUrl": "https://stream.zeno.fm/pxc55r5uyc9uv",
+    "title": "Radio City Hindi"
+  },
+  {
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mutation-dynamics.appspot.com/o/radio_jammu%2Fradio_sharda.png?alt=media&token=2761e20d-be4a-4ea0-adec-c0a5363600eb",
+    "streamUrl": "https://stream.zeno.fm/1zg4ymqz72quv",
+    "title": "Radio Sharda"
+  },
+  {
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/mutation-dynamics.appspot.com/o/radio_jammu%2Fvividh_bharati.png?alt=media&token=8a3cbbcc-b214-4759-834f-938f1fec9aa1",
+    "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8",
+    "title": "Vividh Bharati"
+  }
+]
